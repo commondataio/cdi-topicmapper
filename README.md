@@ -10,6 +10,22 @@ Data dumped as csv files with field names and count of occurences to 'data' dire
 Code as added to the 'scripts' directory. 
 
 
+## Possible solutions
+
+### Double classification
+
+Use double classification. Geodata themes from EN ISO 19115 https://inspire.ec.europa.eu/metadata-codelist/TopicCategory and EU Data Themes https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://publications.europa.eu/resource/authority/data-theme
+
+Advantages: Sync with Data.europe.eu and European data portals
+Disadvantages: A lot of datasets not covered by both classifications
+
+### Custom theme reference list
+
+Create custom themes reference list after keywords and topics analysis. 
+
+
+
+
 
 ## General approach
 
