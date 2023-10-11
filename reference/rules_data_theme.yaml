@@ -1,0 +1,1316 @@
+- key: Bebauungsplan
+  topics:
+  - Regions and cities
+- key: Bodennutzung
+  topics:
+  - Regions and cities
+- key: oceans
+  topics:
+  - Environment
+- key: Infrastruktur, Bauen & Wohnen
+  topics:
+  - Regions and cities
+- key: Oceans
+  topics:
+  - Environment
+- key: ocean
+  topics:
+  - Environment
+- key: climatologyMeteorologyAtmosphere
+  topics:
+  - Environment
+- key: environment
+  topics:
+  - Environment
+- key: Politik & Wahlen
+  topics:
+  - Government and public sector
+- key: Climatology, meteorology, atmosphere
+  topics:
+  - Environment
+- key: Municipal
+  topics:
+  - Regions and cities
+- key: environment
+  topics:
+  - Environment
+- key: atmosphere
+  topics:
+  - Environment
+- key: biosphere
+  topics:
+  - Environment
+- key: Environment
+  topics:
+  - Environment
+- key: national centers for environmental information
+  topics:
+  - Environment
+- key: Ausgaben
+  topics:
+  - Economy and finance
+- key: Einnahmen
+  topics:
+  - Economy and finance
+- key: Gemeindefinanzen
+  topics:
+  - Economy and finance
+- key: biology
+  topics:
+  - Environment
+- key: "\xD6ffentliche Verwaltung, Haushalt & Steuern"
+  topics:
+  - Government and public sector
+- key: sea_water_practical_salinity
+  topics:
+  - Environment
+- key: Despesa
+  topics:
+  - Government and public sector
+- key: Umwelt
+  topics:
+  - Environment
+- key: "Regierung und \xF6ffentlicher Sektor"
+  topics:
+  - Government and public sector
+- key: biota
+  topics:
+  - Environment
+- key: biota
+  topics:
+  - Environment
+- key: "Regionen und St\xE4dte"
+  topics:
+  - Regions and cities
+- key: environment
+  topics:
+  - Environment
+- key: "Bev\xF6lkerung"
+  topics:
+  - Population and society
+- key: Umwelt & Klima
+  topics:
+  - Environment
+- key: transportation
+  topics:
+  - Transport
+- key: Local Government
+  topics:
+  - Regions and cities
+- key: inlandWaters
+  topics:
+  - Environment
+- key: Receita
+  topics:
+  - Government and public sector
+- key: Landwirtschaft, Fischerei, Forstwirtschaft und Nahrungsmittel
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Transport & Verkehr
+  topics:
+  - Transport
+- key: Ambiente
+  topics:
+  - Environment
+- key: Kultur, Sport & Tourismus
+  topics:
+  - Education, culture and sport
+- key: Soziales
+  topics:
+  - Population and society
+- key: "Bev\xF6lkerung und Gesellschaft"
+  topics:
+  - Population and society
+- key: Wissenschaft und Technologie
+  topics:
+  - Science and technology
+- key: Land
+  topics:
+  - Regions and cities
+- key: health
+  topics:
+  - Health
+- key: Wirtschaft und Finanzen
+  topics:
+  - Economy and finance
+- key: "X\xE3 h\u1ED9i"
+  topics:
+  - Population and society
+- key: society
+  topics:
+  - Population and society
+- key: Governo e settore pubblico
+  topics:
+  - Government and public sector
+- key: Verkehr
+  topics:
+  - Transport
+- key: Regional
+  topics:
+  - Regions and cities
+- key: "Popolazione e societ\xE0"
+  topics:
+  - Population and society
+- key: farming
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: structure
+  topics:
+  - Regions and cities
+- key: "Regioni e citt\xE0"
+  topics:
+  - Regions and cities
+- key: Gesundheit
+  topics:
+  - Health
+- key: population
+  topics:
+  - Population and society
+- key: Bildung, Kultur und Sport
+  topics:
+  - Education, culture and sport
+- key: utilitiesCommunication
+  topics:
+  - Regions and cities
+- key: Wirtschaft & Arbeit
+  topics:
+  - Economy and finance
+- key: census
+  topics:
+  - Population and society
+- key: "Verteilung der Bev\xF6lkerung \u2014 Demografie"
+  topics:
+  - Population and society
+- key: climatologyMeteorologyAtmosphere
+  topics:
+  - Environment
+- key: covid-19
+  topics:
+  - Health
+- key: Transparenzgesetz
+  topics:
+  - Government and public sector
+- key: economy
+  topics:
+  - Economy and finance
+- key: Budget
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: Energie
+  topics:
+  - Energy
+- key: "Informa\xE7\xE3o Cont\xE1bil"
+  topics:
+  - Government and public sector
+- key: Coastal and Marine
+  topics:
+  - Environment
+- key: "Sector p\xFAblico"
+  topics:
+  - Government and public sector
+- key: Open Access
+  topics:
+  - Science and technology
+- key: Budget Commission
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: Economia e finanze
+  topics:
+  - Economy and finance
+- key: Government information
+  topics:
+  - Government and public sector
+- key: "Justiz, Rechtssystem und \xF6ffentliche Sicherheit"
+  topics:
+  - Justice, legal system and public safety
+- key: "Legislaci\xF3n y justicia"
+  topics:
+  - Justice, legal system and public safety
+- key: Census
+  topics:
+  - Population and society
+- key: regionale
+  topics:
+  - Regions and cities
+- key: Local and regional government
+  topics:
+  - Regions and cities
+- key: Gesetze & Justiz
+  topics:
+  - Justice, legal system and public safety
+- key: health
+  topics:
+  - Health
+- key: Culture and Heritage
+  topics:
+  - Education, culture and sport
+- key: demographics
+  topics:
+  - Population and society
+- key: Environmental monitoring facilities
+  topics:
+  - Environment
+- key: Regionale
+  topics:
+  - Regions and cities
+- key: 'Bildung & Wissenschaft '
+  topics:
+  - Education, culture and sport
+- key: "\u751F\u6D3B"
+  topics:
+  - Health
+- key: Geographie, Geologie &Geodaten
+  topics:
+  - Environment
+- key: Health
+  topics:
+  - Health
+- key: Health
+  topics:
+  - Health
+- key: Environmental Monitoring
+  topics:
+  - Environment
+- key: environmental
+  topics:
+  - Environment
+- key: Istruzione, cultura e sport
+  topics:
+  - Education, culture and sport
+- key: regional
+  topics:
+  - Regions and cities
+- key: budget
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: Scienza e tecnologia
+  topics:
+  - Science and technology
+- key: Government
+  topics:
+  - Government and public sector
+- key: Trasporti
+  topics:
+  - Transport
+- key: Environment and conservation
+  topics:
+  - Environment
+- key: Education
+  topics:
+  - Education, culture and sport
+- key: Verbraucherschutz
+  topics:
+  - Justice, legal system and public safety
+- key: Environment
+  topics:
+  - Environment
+- key: Society
+  topics:
+  - Population and society
+- key: budgets
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: Environmental Monitoring Facilities
+  topics:
+  - Environment
+- key: Population
+  topics:
+  - Population and society
+- key: marine environment monitoring
+  topics:
+  - Environment
+- key: Plant Production and Health
+  topics:
+  - Health
+- key: environmental monitoring
+  topics:
+  - Environment
+- key: Environnement
+  topics:
+  - Environment
+- key: Financial Inclusion
+  topics:
+  - Economy and finance
+- key: "Inclus\xE3o Financeira"
+  topics:
+  - Economy and finance
+- key: Atmosphere and Climate
+  topics:
+  - Environment
+- key: baseline population
+  topics:
+  - Population and society
+- key: Geographie und Stadtplanung
+  topics:
+  - Regions and cities
+- key: society
+  topics:
+  - Population and society
+- key: Housing & Properties
+  topics:
+  - Regions and cities
+- key: finance
+  topics:
+  - Economy and finance
+- key: COVID-19
+  topics:
+  - Health
+- key: Medio ambiente
+  topics:
+  - Environment
+- key: Population
+  topics:
+  - Population and society
+- key: Pendidikan
+  topics:
+  - Education, culture and sport
+- key: Health
+  topics:
+  - Health
+- key: Education
+  topics:
+  - Education, culture and sport
+- key: government
+  topics:
+  - Government and public sector
+- key: demographic
+  topics:
+  - Population and society
+- key: Finance
+  topics:
+  - Economy and finance
+- key: Earth Science > Oceans > Marine Environment Monitoring
+  topics:
+  - Environment
+- key: Finanzas de Gobierno
+  topics:
+  - Government and public sector
+- key: Transport
+  topics:
+  - Transport
+- key: Utility and governmental services
+  topics:
+  - Government and public sector
+- key: Society
+  topics:
+  - Population and society
+- key: intelligenceMilitary
+  topics:
+  - Government and public sector
+- key: "Administration, Gouvernement, Finances publiques, Citoyennet\xE9"
+  topics:
+  - Government and public sector
+- key: Climatology
+  topics:
+  - Environment
+- key: census data
+  topics:
+  - Population and society
+- key: Climate Indices
+  topics:
+  - Environment
+- key: "Licita\xE7\xF5es"
+  topics:
+  - Economy and finance
+- key: Contratos
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: Salud
+  topics:
+  - Health
+- key: Marine Environmental Data and Information Network
+  topics:
+  - Environment
+- key: Salud
+  topics:
+  - Health
+- key: salud
+  topics:
+  - Health
+- key: demografia
+  topics:
+  - Population and society
+- key: Transportation
+  topics:
+  - Transport
+- key: Natural Environment Research Council Designated Data Centres
+  topics:
+  - Environment
+- key: Inland Waters
+  topics:
+  - Environment
+- key: "Economia e Finan\xE7as"
+  topics:
+  - Economy and finance
+- key: Budget Vote Documents
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: "\u653F\u7B56\u30FB\u7D71\u8A08\u7B49"
+  topics:
+  - Government and public sector
+- key: Economy
+  topics:
+  - Economy and finance
+- key: coronavirus
+  topics:
+  - Health
+- key: "23) \u0E01\u0E32\u0E23\u0E27\u0E34\u0E08\u0E31\u0E22\u0E41\u0E25\u0E30\u0E1E\u0E31\u0E12\u0E19\u0E32\u0E19\u0E27\u0E31\u0E15\u0E01\u0E23\u0E23\u0E21"
+  topics:
+  - Science and technology
+- key: Salute
+  topics:
+  - Health
+- key: Trasparenza
+  topics:
+  - Government and public sector
+- key: Urbanismo e infraestructuras
+  topics:
+  - Regions and cities
+- key: "\u884C\u8CA1\u653F"
+  topics:
+  - Government and public sector
+- key: Environment
+  topics:
+  - Environment
+- key: City Government
+  topics:
+  - Regions and cities
+- key: Economy and finance
+  topics:
+  - Economy and finance
+- key: "Educaci\xF3n"
+  topics:
+  - Education, culture and sport
+- key: Agriculture and Fishing
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Temperature
+  topics:
+  - Environment
+- key: Infrastructure
+  topics:
+  - Regions and cities
+- key: Local government
+  topics:
+  - Regions and cities
+- key: Government
+  topics:
+  - Government and public sector
+- key: Public Safety
+  topics:
+  - Justice, legal system and public safety
+- key: Energy & Environment
+  topics:
+  - Energy
+  - Environment
+- key: "\u0E2A\u0E32\u0E02\u0E32\u0E40\u0E01\u0E29\u0E15\u0E23\u0E41\u0E25\u0E30\u0E1B\u0E23\u0E30\u0E21\u0E07"
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Pertanian
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Administration, Government, Public finances, Citizenship
+  topics:
+  - Government and public sector
+- key: "\u0414\u0430\u043D\u043D\u044B\u0435 \u0426\u0411 \u0420\u0424"
+  topics:
+  - Economy and finance
+- key: Government
+  topics:
+  - Government and public sector
+- key: Gobierno
+  topics:
+  - Government and public sector
+- key: Social Services
+  topics:
+  - Government and public sector
+- key: "Econom\xEDa"
+  topics:
+  - Economy and finance
+- key: Precipitation
+  topics:
+  - Environment
+- key: "\u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u063A\u0630\u0627\u0626\u064A"
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Climate
+  topics:
+  - Environment
+- key: Ekonomi
+  topics:
+  - Economy and finance
+- key: Adjusted Budget Vote Documents
+  topics:
+  - Government and public sector
+  - Economy and finance
+- key: "Transports, D\xE9placements"
+  topics:
+  - Transport
+- key: Bancian
+  topics:
+  - Population and society
+- key: "\u74B0\u5883"
+  topics:
+  - Environment
+- key: Kesihatan
+  topics:
+  - Health
+- key: population
+  topics:
+  - Population and society
+- key: "16) \u0E40\u0E28\u0E23\u0E29\u0E10\u0E01\u0E34\u0E08\u0E10\u0E32\u0E19\u0E23\u0E32\u0E01"
+  topics:
+  - Economy and finance
+- key: Government reporting and policy
+  topics:
+  - Government and public sector
+- key: Transporte
+  topics:
+  - Transport
+- key: "\u0414\u0430\u043D\u043D\u044B\u0435 \u0441\u0438\u0441\u0442\u0435\u043C\u044B
+    \u0415\u0421\u0418\u041C\u041E"
+  topics:
+  - Environment
+- key: Science
+  topics:
+  - Science and technology
+- key: Transport and Communications
+  topics:
+  - Transport
+- key: Population and society
+  topics:
+  - Population and society
+- key: "\u0E2A\u0E32\u0E02\u0E32\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E41\u0E25\u0E30\u0E2A\u0E34\u0E48\u0E07\u0E41\u0E27\u0E14\u0E25\u0E49\u0E2D\u0E21"
+  topics:
+  - Environment
+- key: "\u0627\u0644\u0632\u0631\u0627\u0639\u0629"
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Trade (internal and external)
+  topics:
+  - Economy and finance
+- key: Transportation
+  topics:
+  - Transport
+- key: Local Authority
+  topics:
+  - Regions and cities
+- key: Education and Training
+  topics:
+  - Education, culture and sport
+- key: Environment
+  topics:
+  - Environment
+- key: Economy
+  topics:
+  - Economy and finance
+- key: "Energ\xEDa"
+  topics:
+  - Energy
+- key: Biota
+  topics:
+  - Environment
+- key: Pemerintahan
+  topics:
+  - Government and public sector
+- key: Agricoltura, pesca, silvicoltura e prodotti alimentari
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Education, Formation, Recherche, Enseignement
+  topics:
+  - Education, culture and sport
+- key: Energia
+  topics:
+  - Energy
+- key: Transport
+  topics:
+  - Transport
+- key: Space Science
+  topics:
+  - Science and technology
+- key: "Econom\xEDa y finanzas"
+  topics:
+  - Economy and finance
+- key: Fiscal Openness
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: "Environnement, ressources naturelles et \xE9nergie"
+  topics:
+  - Environment
+- key: Territoire
+  topics:
+  - Regions and cities
+- key: Spatial planning, Town planning, Buildings, Equipment, Housing
+  topics:
+  - Regions and cities
+- key: Finance
+  topics:
+  - Economy and finance
+- key: Infrastructures
+  topics:
+  - Regions and cities
+- key: Administration et action publique
+  topics:
+  - Government and public sector
+- key: Services, Social
+  topics:
+  - Population and society
+- key: Sociedad y bienestar
+  topics:
+  - Population and society
+- key: Environnement et climat
+  topics:
+  - Environment
+- key: oceans
+  topics:
+  - Environment
+- key: Accounts Financial Monetary Affairs and Industry
+  topics:
+  - Economy and finance
+- key: Oceans
+  topics:
+  - Environment
+- key: Health
+  topics:
+  - Health
+- key: "Regioni e citt\xE0"
+  topics:
+  - Regions and cities
+- key: Cultura
+  topics:
+  - Education, culture and sport
+- key: Health and Human Services
+  topics:
+  - Health
+- key: Ambiente
+  topics:
+  - Environment
+- key: Economy, Business, SME, Economic development, Employment
+  topics:
+  - Economy and finance
+- key: Finance
+  topics:
+  - Economy and finance
+- key: Administration
+  topics:
+  - Government and public sector
+- key: Gouvernement et finances
+  topics:
+  - Government and public sector
+  - Economy and finance
+- key: Environment
+  topics:
+  - Environment
+- key: 'International Trade '
+  topics:
+  - Economy and finance
+- key: Surveys
+  topics:
+  - Population and society
+- key: Business
+  topics:
+  - Economy and finance
+- key: Transportation
+  topics:
+  - Transport
+- key: Territory and environment
+  topics:
+  - Regions and cities
+  - Environment
+- key: Water, energy, resources, environment and science
+  topics:
+  - Energy
+- key: Government and Taxes
+  topics:
+  - Government and public sector
+  - Economy and finance
+- key: City Administration
+  topics:
+  - Regions and cities
+- key: "Mobilit\xE9"
+  topics:
+  - Transport
+- key: Governo e settore pubblico
+  topics:
+  - Government and public sector
+- key: "D\xE9placements - transports"
+  topics:
+  - Transport
+- key: Social Justice
+  topics:
+  - Justice, legal system and public safety
+- key: "Demograf\xEDa"
+  topics:
+  - Population and society
+- key: Population and Housing
+  topics:
+  - Population and society
+- key: Social Services
+  topics:
+  - Population and society
+- key: Energy
+  topics:
+  - Energy
+- key: "Mobilit\xE0 e trasporti"
+  topics:
+  - Transport
+- key: Culture, Patrimoine
+  topics:
+  - Education, culture and sport
+- key: Internationale Themen
+  topics:
+  - International issues
+- key: 'Agriculture and Allied Activities '
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Government & Finance
+  topics:
+  - Government and public sector
+  - Economy and finance
+- key: Governance
+  topics:
+  - Government and public sector
+- key: City & Governance
+  topics:
+  - Regions and cities
+- key: Trasporti
+  topics:
+  - Transport
+- key: Mobility and Transport
+  topics:
+  - Transport
+- key: Energy and Environment
+  topics:
+  - Energy
+  - Environment
+- key: Biota
+  topics:
+  - Environment
+- key: ClimatologyMeteorologyAtmosphere
+  topics:
+  - Environment
+- key: "Soc.Demogr\xE1fico"
+  topics:
+  - Population and society
+- key: Economic Sector
+  topics:
+  - Economy and finance
+- key: Economia
+  topics:
+  - Economy and finance
+- key: Transparencia
+  topics:
+  - Government and public sector
+- key: Science and research
+  topics:
+  - Science and technology
+- key: Civic Infrastructure
+  topics:
+  - Regions and cities
+- key: Vie culturelle
+  topics:
+  - Education, culture and sport
+- key: BUDGET DE L'ETAT
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: Culture
+  topics:
+  - Education, culture and sport
+- key: Vehicle Speed
+  topics:
+  - Transport
+- key: Sport, Loisirs
+  topics:
+  - Education, culture and sport
+- key: Labor Market
+  topics:
+  - Economy and finance
+- key: Census
+  topics:
+  - Population and society
+- key: economia
+  topics:
+  - Economy and finance
+- key: Demographics
+  topics:
+  - Population and society
+- key: Economie
+  topics:
+  - Economy and finance
+- key: Medio Ambiente
+  topics:
+  - Environment
+- key: Energy
+  topics:
+  - Energy
+- key: Meteo
+  topics:
+  - Environment
+- key: Radiation
+  topics:
+  - Environment
+- key: Population
+  topics:
+  - Population and society
+- key: Agriculture
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: "Transports, D\xE9placements, Mobilit\xE9"
+  topics:
+  - Transport
+- key: "\xC9ducation, Formation, Recherche, Enseignement"
+  topics:
+  - Education, culture and sport
+- key: Transparency
+  topics:
+  - Government and public sector
+- key: Education Outcome
+  topics:
+  - Education, culture and sport
+- key: "\xC9conomie, Business, PME, D\xE9veloppement \xE9conomique, Emploi"
+  topics:
+  - Economy and finance
+- key: Energi
+  topics:
+  - Energy
+- key: Crude Oil & Refined Products
+  topics:
+  - Economy and finance
+- key: "\u4EA4\u901A"
+  topics:
+  - Transport
+- key: Mobility
+  topics:
+  - Transport
+- key: "\u4EBA\u53E3\u6E1B\u5C11\u30FB\u5C11\u5B50\u9AD8\u9F62\u5316"
+  topics:
+  - Population and society
+- key: "\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E41\u0E25\u0E30\u0E2A\u0E34\u0E48\u0E07\u0E41\u0E27\u0E14\u0E25\u0E49\u0E2D\u0E21"
+  topics:
+  - Environment
+- key: "Territoires et r\xE9gions"
+  topics:
+  - Regions and cities
+- key: Administration & Finance
+  topics:
+  - Government and public sector
+  - Economy and finance
+- key: Weather Conditions
+  topics:
+  - Environment
+- key: Finanzas
+  topics:
+  - Economy and finance
+- key: Freedom of Information
+  topics:
+  - Government and public sector
+- key: Business and Economy
+  topics:
+  - Economy and finance
+- key: Urbanisme et Logements
+  topics:
+  - Regions and cities
+- key: Cadre de vie - environnement
+  topics:
+  - Environment
+- key: Territoires, Agriculture et Innovations
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Food, Civil Supplies and Co-operation
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Business
+  topics:
+  - Economy and finance
+- key: Economic Development
+  topics:
+  - Economy and finance
+- key: "Mobilit\xE9 et transports"
+  topics:
+  - Transport
+- key: Crime and Community Safety
+  topics:
+  - Justice, legal system and public safety
+- key: Finance & Administration
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: "Governo e Finan\xE7as P\xFAblicas"
+  topics:
+  - Economy and finance
+  - Government and public sector
+- key: Natural Resources & Environment
+  topics:
+  - Environment
+- key: Electricity
+  topics:
+  - Energy
+- key: Uddannelse, kultur og sport
+  topics:
+  - Education, culture and sport
+- key: Sport
+  topics:
+  - Education, culture and sport
+- key: "Econom\xEDa y Finanzas"
+  topics:
+  - Economy and finance
+- key: Environnement, Cadre de vie
+  topics:
+  - Environment
+- key: "Pol\xEDtica"
+  topics:
+  - Government and public sector
+- key: "Gobierno y sector p\xFAblico"
+  topics:
+  - Government and public sector
+- key: "Educa\xE7\xE3o"
+  topics:
+  - Education, culture and sport
+- key: Sciences
+  topics:
+  - Science and technology
+- key: Culture, Heritage
+  topics:
+  - Education, culture and sport
+- key: Sociedad
+  topics:
+  - Population and society
+- key: Infrastrutture e trasporti
+  topics:
+  - Transport
+- key: Council and democracy
+  topics:
+  - Government and public sector
+- key: Health & Human Services
+  topics:
+  - Health
+- key: Recreation
+  topics:
+  - Health
+- key: Hallinto ja julkinen sektori
+  topics:
+  - Government and public sector
+- key: Public service
+  topics:
+  - Government and public sector
+- key: Health & Public Safety
+  topics:
+  - Justice, legal system and public safety
+  - Health
+- key: Family & Health
+  topics:
+  - Health
+- key: Sport - tourisme - loisirs
+  topics:
+  - Education, culture and sport
+- key: "Agroganader\xEDa, pesca y forestaci\xF3n"
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Health Sciences
+  topics:
+  - Health
+- key: "\u5065\u5EB7/\u7167\u8B77/\u793E\u798F"
+  topics:
+  - Health
+- key: Demography
+  topics:
+  - Population and society
+- key: "Economie, Business, PME, D\xE9veloppement \xE9conomique, Emploi"
+  topics:
+  - Economy and finance
+- key: "Donn\xE9es territoriales"
+  topics:
+  - Regions and cities
+- key: Economy and Planning
+  topics:
+  - Economy and finance
+- key: Administrative
+  topics:
+  - Government and public sector
+- key: 'Urban Development and Housing '
+  topics:
+  - Regions and cities
+- key: Community & Economic Development
+  topics:
+  - Economy and finance
+- key: Culture / Tourisme
+  topics:
+  - Education, culture and sport
+- key: 'BMA City Data '
+  topics:
+  - Regions and cities
+- key: State sector performance
+  topics:
+  - Government and public sector
+- key: Urban Planning
+  topics:
+  - Regions and cities
+- key: Tourisme
+  topics:
+  - Education, culture and sport
+- key: "Soci\xE9t\xE9 et culture"
+  topics:
+  - Population and society
+  - Education, culture and sport
+- key: Genetic Improvement and Biotechnology
+  topics:
+  - Science and technology
+- key: Social
+  topics:
+  - Population and society
+- key: Transport
+  topics:
+  - Transport
+- key: Urbanisme
+  topics:
+  - Regions and cities
+- key: City Services
+  topics:
+  - Regions and cities
+- key: "Citoyennet\xE9/Institution"
+  topics:
+  - Government and public sector
+- key: Rural Development and Panchayati Raj Institutions
+  topics:
+  - Regions and cities
+- key: Economia e finanza
+  topics:
+  - Economy and finance
+- key: Society
+  topics:
+  - Population and society
+- key: Education
+  topics:
+  - Education, culture and sport
+- key: "Energies et r\xE9seaux"
+  topics:
+  - Energy
+- key: Community
+  topics:
+  - Population and society
+- key: "Ciencia y tecnolog\xEDa"
+  topics:
+  - Science and technology
+- key: Gobiernos Locales
+  topics:
+  - Regions and cities
+- key: Meio Ambiente
+  topics:
+  - Environment
+- key: Local Government
+  topics:
+  - Government and public sector
+  - Regions and cities
+- key: Tourism
+  topics:
+  - Education, culture and sport
+- key: Finances
+  topics:
+  - Economy and finance
+- key: Climate
+  topics:
+  - Environment
+- key: Trade
+  topics:
+  - Economy and finance
+- key: Irrigation and Water Resources
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: "Seguran\xE7a, Crime, Viol\xEAncia, e Conflito"
+  topics:
+  - Justice, legal system and public safety
+- key: Inland Waters
+  topics:
+  - Environment
+- key: State
+  topics:
+  - Government and public sector
+- key: Finances
+  topics:
+  - Economy and finance
+- key: Prices and Indices
+  topics:
+  - Economy and finance
+- key: Economy
+  topics:
+  - Economy and finance
+- key: Water
+  topics:
+  - Environment
+- key: Demographics
+  topics:
+  - Population and society
+- key: Hydrology
+  topics:
+  - Environment
+- key: "Formation, \xE9ducation et emploi"
+  topics:
+  - Education, culture and sport
+- key: "Loi, justice et s\xE9curit\xE9 publique"
+  topics:
+  - Justice, legal system and public safety
+- key: Administration et Finances Publiques
+  topics:
+  - Government and public sector
+- key: Voting & Elections
+  topics:
+  - Government and public sector
+- key: Education, Training, Research, Teaching
+  topics:
+  - Education, culture and sport
+- key: Equipements, Services, Social
+  topics:
+  - Population and society
+- key: Economie et entreprises
+  topics:
+  - Economy and finance
+- key: "Ekonomika un uz\u0146\u0113m\u0113jdarb\u012Bba"
+  topics:
+  - Economy and finance
+- key: "Popolazione e societ\xE0"
+  topics:
+  - Population and society
+- key: Life Sciences
+  topics:
+  - Health
+- key: Industry
+  topics:
+  - Economy and finance
+- key: "Citoyennet\xE9 , D\xE9mocratie"
+  topics:
+  - Population and society
+- key: Humidity
+  topics:
+  - Environment
+- key: Medicare
+  topics:
+  - Health
+- key: "\u041E\u0440\u0433\u0430\u043D\u044B \u043F\u0440\u043E\u043A\u0443\u0440\u0430\u0442\u0443\u0440\u044B"
+  topics:
+  - Government and public sector
+- key: Business & Economics
+  topics:
+  - Economy and finance
+- key: Sports, Leisure
+  topics:
+  - Education, culture and sport
+- key: Politik
+  topics:
+  - Government and public sector
+- key: "Attractivit\xE9 et innovation"
+  topics:
+  - Science and technology
+- key: Environment and Forests
+  topics:
+  - Agriculture, fisheries, forestry and food
+  - Environment
+- key: Climate Change Adaptation
+  topics:
+  - Environment
+- key: "Sector P\xFAblico"
+  topics:
+  - Government and public sector
+- key: Transport, Movements
+  topics:
+  - Transport
+- key: Health Facilities
+  topics:
+  - Health
+- key: 'National Accounts '
+  topics:
+  - Economy and finance
+- key: Demographie
+  topics:
+  - Population and society
+- key: Public sector
+  topics:
+  - Government and public sector
+- key: Societate
+  topics:
+  - Population and society
+- key: 'Education & Technical Development '
+  topics:
+  - Education, culture and sport
+- key: Energy and Water
+  topics:
+  - Energy
+- key: Vegetation
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Transporte
+  topics:
+  - Transport
+- key: Industria
+  topics:
+  - Economy and finance
+- key: Tourisme, sports et loisirs
+  topics:
+  - Education, culture and sport
+- key: Trade
+  topics:
+  - Economy and finance
+- key: Agropecuario y Pesca
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: "R\xE9seau \xE9lectrique"
+  topics:
+  - Energy
+- key: Kulttuuri, taide ja vapaa-aika
+  topics:
+  - Education, culture and sport
+- key: infrastructure
+  topics:
+  - Regions and cities
+- key: Business and Economy
+  topics:
+  - Economy and finance
+- key: Arts, culture & history
+  topics:
+  - Education, culture and sport
+- key: Politics
+  topics:
+  - Government and public sector
+- key: "Re\u0123ioni un pa\u0161vald\u012Bbas"
+  topics:
+  - Regions and cities
+- key: Klimatologi
+  topics:
+  - Environment
+- key: "Educa\u0163ie"
+  topics:
+  - Education, culture and sport
+- key: Sciences, recherche et innovation
+  topics:
+  - Science and technology
+- key: Health and wellbeing
+  topics:
+  - Health
+- key: Power and Energy
+  topics:
+  - Energy
+- key: Health outcome
+  topics:
+  - Health
+- key: Education Facilities
+  topics:
+  - Education, culture and sport
+- key: Cultura e Arte
+  topics:
+  - Education, culture and sport
+- key: education
+  topics:
+  - Education, culture and sport
+- key: "D\xE9veloppement \xE9conomique"
+  topics:
+  - Economy and finance
+- key: vegetation/ecology
+  topics:
+  - Environment

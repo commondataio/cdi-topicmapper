@@ -12,19 +12,28 @@ Code as added to the 'scripts' directory.
 
 ## Possible solutions
 
-### Double classification
+### Double/Triple classification
 
-Use double classification. Geodata themes from EN ISO 19115 https://inspire.ec.europa.eu/metadata-codelist/TopicCategory and EU Data Themes https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://publications.europa.eu/resource/authority/data-theme
+Geodata themes from EN ISO 19115 https://inspire.ec.europa.eu/metadata-codelist/TopicCategory and EU Data Themes https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://publications.europa.eu/resource/authority/data-theme
+Scientific themes could be taken from Re3Data schema
 
 Advantages: Sync with Data.europe.eu and European data portals
 Disadvantages: A lot of datasets not covered by both classifications
+
+
+### Datacite / Re3Data subjects
+
+http://schema.re3data.org/3-1/re3dataV3-1.xsd
+
+
 
 ### Custom theme reference list
 
 Create custom themes reference list after keywords and topics analysis. 
 
 
-
+## Other links
+* Harvard Dataverse https://dataverse.harvard.edu/
 
 
 ## General approach

@@ -1,0 +1,1171 @@
+- key: Bebauungsplan
+  topics:
+  - Planning / Cadastre
+- key: Bodennutzung
+  topics:
+  - Planning / Cadastre
+- key: earth science > paleoclimate > tree ring
+  topics:
+  - Geoscientific Information
+- key: Bauleitplan
+  topics:
+  - Planning / Cadastre
+- key: "Bebauungspl\xE4ne"
+  topics:
+  - Planning / Cadastre
+- key: "Bauleitpl\xE4ne"
+  topics:
+  - Planning / Cadastre
+- key: Bauvorschrift
+  topics:
+  - Structure
+- key: Bauplatz
+  topics:
+  - Structure
+- key: "Baupl\xE4tze"
+  topics:
+  - Structure
+- key: planningCadastre
+  topics:
+  - Planning / Cadastre
+- key: geoscientificInformation
+  topics:
+  - Geoscientific Information
+- key: imageryBaseMapsEarthCover
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: PlannedLandUse
+  topics:
+  - Planning / Cadastre
+- key: Planungsunterlagen, Kataster
+  topics:
+  - Planning / Cadastre
+- key: Geoscientific information
+  topics:
+  - Geoscientific Information
+- key: oceans
+  topics:
+  - Oceans
+- key: Infrastruktur, Bauen & Wohnen
+  topics:
+  - Structure
+- key: latitude
+  topics:
+  - Location
+- key: longitude
+  topics:
+  - Location
+- key: Bauleitplanung
+  topics:
+  - Planning / Cadastre
+- key: Oceans
+  topics:
+  - Oceans
+- key: earth science
+  topics:
+  - Geoscientific Information
+- key: ocean
+  topics:
+  - Oceans
+- key: climatologyMeteorologyAtmosphere
+  topics:
+  - Climatology / Meteorology / Atmosphere
+- key: environment
+  topics:
+  - Environment
+- key: "Oberfl\xE4chenbeschreibung"
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Geobasisdaten
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Climatology, meteorology, atmosphere
+  topics:
+  - Climatology / Meteorology / Atmosphere
+- key: environment
+  topics:
+  - Environment
+- key: atmosphere
+  topics:
+  - Climatology / Meteorology / Atmosphere
+- key: biosphere
+  topics:
+  - Biota
+- key: Imagery base maps earth cover
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: sea_water_temperature
+  topics:
+  - Inland Waters
+  - Oceans
+- key: oceanography
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Environment
+  topics:
+  - Environment
+- key: Geoinformation
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: water
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Geology
+  topics:
+  - Geoscientific Information
+- key: Planification/Cadastre
+  topics:
+  - Planning / Cadastre
+- key: national centers for environmental information
+  topics:
+  - Environment
+- key: biology
+  topics:
+  - Biota
+- key: sea_water_practical_salinity
+  topics:
+  - Oceans
+- key: bathymetry
+  topics:
+  - Oceans
+  - Inland Waters
+- key: AquaMaps
+  topics:
+  - Oceans
+  - Inland Waters
+  - Imagery / Base Maps / Earth Cover
+- key: location
+  topics:
+  - Location
+- key: water depth
+  topics:
+  - Oceans
+- key: sea
+  topics:
+  - Oceans
+- key: Umwelt
+  topics:
+  - Environment
+- key: GEOSCIENCES-Geology
+  topics:
+  - Geoscientific Information
+- key: biota
+  topics:
+  - Biota
+- key: biota
+  topics:
+  - Biota
+- key: environment
+  topics:
+  - Environment
+- key: elevation
+  topics:
+  - Elevation
+- key: geoscientificinformation
+  topics:
+  - Geoscientific Information
+- key: "Bev\xF6lkerung"
+  topics:
+  - Society
+- key: Umwelt & Klima
+  topics:
+  - Environment
+- key: transportation
+  topics:
+  - Transportation
+- key: inlandWaters
+  topics:
+  - Inland Waters
+- key: Landwirtschaft, Fischerei, Forstwirtschaft und Nahrungsmittel
+  topics:
+  - Farming
+- key: Transport & Verkehr
+  topics:
+  - Transportation
+- key: Ambiente
+  topics:
+  - Environment
+- key: boundaries
+  topics:
+  - Boundaries
+- key: Soziales
+  topics:
+  - Society
+- key: "Bev\xF6lkerung und Gesellschaft"
+  topics:
+  - Society
+- key: Land
+  topics:
+  - Planning / Cadastre
+- key: health
+  topics:
+  - Health
+- key: Biodiversity
+  topics:
+  - Biota
+- key: Wirtschaft und Finanzen
+  topics:
+  - Economy
+- key: Land
+  topics:
+  - Planning / Cadastre
+- key: Earth Science
+  topics:
+  - Geoscientific Information
+- key: "X\xE3 h\u1ED9i"
+  topics:
+  - Society
+- key: society
+  topics:
+  - Society
+- key: Verkehr
+  topics:
+  - Transportation
+- key: imagerybasemapsearthcover
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: "Popolazione e societ\xE0"
+  topics:
+  - Society
+- key: farming
+  topics:
+  - Farming
+- key: structure
+  topics:
+  - Structure
+- key: Gesundheit
+  topics:
+  - Health
+- key: population
+  topics:
+  - Society
+- key: utilitiesCommunication
+  topics:
+  - Utilities / Communication
+- key: Wirtschaft & Arbeit
+  topics:
+  - Economy
+- key: census
+  topics:
+  - Society
+- key: Ortoimagen
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: "Im\xE1genes Orto-rectificadas"
+  topics:
+  - Planning / Cadastre
+- key: "Verteilung der Bev\xF6lkerung \u2014 Demografie"
+  topics:
+  - Society
+- key: climatologyMeteorologyAtmosphere
+  topics:
+  - Environment
+- key: covid-19
+  topics:
+  - Health
+- key: economy
+  topics:
+  - Economy
+- key: Budget
+  topics:
+  - Economy
+- key: Coastal and Marine
+  topics:
+  - Oceans
+  - Inland Waters
+- key: gulf of mexico
+  topics:
+  - Oceans
+- key: coastal maps
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Budget Commission
+  topics:
+  - Economy
+- key: AquaMaps Native 2050
+  topics:
+  - Imagery / Base Maps / Earth Cover
+  - Oceans
+  - Inland Waters
+- key: AquaMaps Native
+  topics:
+  - Imagery / Base Maps / Earth Cover
+  - Oceans
+  - Inland Waters
+- key: Economia e finanze
+  topics:
+  - Economy
+- key: Built Environment
+  topics:
+  - Structure
+- key: Census
+  topics:
+  - Society
+- key: health
+  topics:
+  - Health
+- key: demographics
+  topics:
+  - Society
+- key: Environmental monitoring facilities
+  topics:
+  - Environment
+- key: "\u751F\u6D3B"
+  topics:
+  - Health
+- key: Gulf of Mexico
+  topics:
+  - Oceans
+- key: Geographie, Geologie &Geodaten
+  topics:
+  - Environment
+- key: pre-approval-maps
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Health
+  topics:
+  - Health
+- key: orthoimagery
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Health
+  topics:
+  - Health
+- key: Environmental Monitoring
+  topics:
+  - Environment
+- key: environmental
+  topics:
+  - Environment
+- key: budget
+  topics:
+  - Economy
+- key: imagen satelital
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Land and Resource Management
+  topics:
+  - Planning / Cadastre
+- key: GEOSCIENTIFICINFORMATION
+  topics:
+  - Geoscientific Information
+- key: imagery
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Trasporti
+  topics:
+  - Transportation
+- key: image-collections
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Environment and conservation
+  topics:
+  - Environment
+- key: Environment
+  topics:
+  - Environment
+- key: Society
+  topics:
+  - Society
+- key: budgets
+  topics:
+  - Economy
+- key: Environmental Monitoring Facilities
+  topics:
+  - Environment
+- key: Population
+  topics:
+  - Society
+- key: marine environment monitoring
+  topics:
+  - Environment
+- key: Buildings
+  topics:
+  - Structure
+- key: Plant Production and Health
+  topics:
+  - Health
+- key: geology
+  topics:
+  - Geoscientific Information
+- key: environmental monitoring
+  topics:
+  - Environment
+- key: gulf-of-mexico
+  topics:
+  - Oceans
+- key: Environnement
+  topics:
+  - Environment
+- key: Financial Inclusion
+  topics:
+  - Economy
+- key: "Inclus\xE3o Financeira"
+  topics:
+  - Economy
+- key: geoscientificInformation
+  topics:
+  - Geoscientific Information
+- key: Atmosphere and Climate
+  topics:
+  - Climatology / Meteorology / Atmosphere
+- key: baseline population
+  topics:
+  - Society
+- key: Geographie und Stadtplanung
+  topics:
+  - Planning / Cadastre
+- key: society
+  topics:
+  - Society
+- key: Housing & Properties
+  topics:
+  - Planning / Cadastre
+- key: planning-cadastre
+  topics:
+  - Planning / Cadastre
+- key: COVID-19
+  topics:
+  - Health
+- key: Building
+  topics:
+  - Structure
+- key: Medio ambiente
+  topics:
+  - Environment
+- key: Sensitivity maps
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Population
+  topics:
+  - Society
+- key: Health
+  topics:
+  - Health
+- key: geoscientific-information
+  topics:
+  - Geoscientific Information
+- key: Ortho-imagerie
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: demographic
+  topics:
+  - Society
+- key: coastal base map
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Coastal Base Map
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Earth Science > Oceans > Marine Environment Monitoring
+  topics:
+  - Environment
+  - Oceans
+- key: Transport
+  topics:
+  - Transportation
+- key: planningCadastre
+  topics:
+  - Planning / Cadastre
+- key: Society
+  topics:
+  - Society
+- key: intelligenceMilitary
+  topics:
+  - Intelligence / Military
+- key: Climatology
+  topics:
+  - Environment
+- key: census data
+  topics:
+  - Society
+- key: Climate Indices
+  topics:
+  - Environment
+- key: Contratos
+  topics:
+  - Economy
+- key: Salud
+  topics:
+  - Health
+- key: Marine Environmental Data and Information Network
+  topics:
+  - Environment
+  - Oceans
+- key: Salud
+  topics:
+  - Health
+- key: OCEAN > ATLANTIC OCEAN > NORTH ATLANTIC OCEAN > GULF OF MEXICO`
+  topics:
+  - Oceans
+- key: printed-maps
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Remotely Sensed Imagery/Photography
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: basemap
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: salud
+  topics:
+  - Health
+- key: demografia
+  topics:
+  - Society
+- key: Transportation
+  topics:
+  - Transportation
+- key: Natural Environment Research Council Designated Data Centres
+  topics:
+  - Environment
+- key: Inland Waters
+  topics:
+  - Inland Waters
+- key: "Economia e Finan\xE7as"
+  topics:
+  - Economy
+- key: buildings
+  topics:
+  - Structure
+- key: Budget Vote Documents
+  topics:
+  - Economy
+- key: planningcadastre
+  topics:
+  - Planning / Cadastre
+- key: source-geologic-maps
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: source-maps
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Economy
+  topics:
+  - Economy
+- key: Planning cadastre
+  topics:
+  - Planning / Cadastre
+- key: sensitivity maps
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: orthoimagerie
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: coronavirus
+  topics:
+  - Health
+- key: Salute
+  topics:
+  - Health
+- key: Environment
+  topics:
+  - Environment
+- key: hydrogeology
+  topics:
+  - Oceans
+  - Inland Waters
+- key: Economy and finance
+  topics:
+  - Economy
+- key: Agriculture and Fishing
+  topics:
+  - Farming
+- key: Temperature
+  topics:
+  - Environment
+- key: Energy & Environment
+  topics:
+  - Environment
+- key: "\u0E2A\u0E32\u0E02\u0E32\u0E40\u0E01\u0E29\u0E15\u0E23\u0E41\u0E25\u0E30\u0E1B\u0E23\u0E30\u0E21\u0E07"
+  topics:
+  - Farming
+- key: Pertanian
+  topics:
+  - Farming
+- key: "Econom\xEDa"
+  topics:
+  - Economy
+- key: Precipitation
+  topics:
+  - Environment
+- key: "\u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u063A\u0630\u0627\u0626\u064A"
+  topics:
+  - Farming
+- key: Climate
+  topics:
+  - Environment
+- key: Ekonomi
+  topics:
+  - Economy
+- key: Adjusted Budget Vote Documents
+  topics:
+  - Economy
+- key: "Transports, D\xE9placements"
+  topics:
+  - Transportation
+- key: Bancian
+  topics:
+  - Society
+- key: "\u74B0\u5883"
+  topics:
+  - Environment
+- key: Kesihatan
+  topics:
+  - Health
+- key: population
+  topics:
+  - Society
+- key: "16) \u0E40\u0E28\u0E23\u0E29\u0E10\u0E01\u0E34\u0E08\u0E10\u0E32\u0E19\u0E23\u0E32\u0E01"
+  topics:
+  - Economy
+- key: Transporte
+  topics:
+  - Transportation
+- key: "\u0414\u0430\u043D\u043D\u044B\u0435 \u0441\u0438\u0441\u0442\u0435\u043C\u044B
+    \u0415\u0421\u0418\u041C\u041E"
+  topics:
+  - Oceans
+- key: Transport and Communications
+  topics:
+  - Transportation
+- key: Population and society
+  topics:
+  - Society
+- key: "Am\xE9nagement du territoire, Urbanisme, B\xE2timents, \xC9quipements, Logement"
+  topics:
+  - Planning / Cadastre
+- key: "\u0E2A\u0E32\u0E02\u0E32\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E41\u0E25\u0E30\u0E2A\u0E34\u0E48\u0E07\u0E41\u0E27\u0E14\u0E25\u0E49\u0E2D\u0E21"
+  topics:
+  - Environment
+- key: "\u0627\u0644\u0632\u0631\u0627\u0639\u0629"
+  topics:
+  - Farming
+- key: Trade (internal and external)
+  topics:
+  - Economy
+- key: Transportation
+  topics:
+  - Transportation
+- key: Environment
+  topics:
+  - Environment
+- key: Economy
+  topics:
+  - Economy
+- key: prospection
+  topics:
+  - Geoscientific Information
+- key: geoscientificinformation
+  topics:
+  - Geoscientific Information
+- key: Biota
+  topics:
+  - Biota
+- key: Agricoltura, pesca, silvicoltura e prodotti alimentari
+  topics:
+  - Farming
+- key: Transport
+  topics:
+  - Transportation
+- key: Property and Planning
+  topics:
+  - Planning / Cadastre
+- key: "Econom\xEDa y finanzas"
+  topics:
+  - Economy
+- key: Aqua
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Fiscal Openness
+  topics:
+  - Economy
+- key: "Environnement, ressources naturelles et \xE9nergie"
+  topics:
+  - Environment
+- key: Territoire
+  topics:
+  - Planning / Cadastre
+- key: Finance
+  topics:
+  - Economy
+- key: Territorio
+  topics:
+  - Planning / Cadastre
+- key: Services, Social
+  topics:
+  - Society
+- key: Sociedad y bienestar
+  topics:
+  - Society
+- key: Environnement et climat
+  topics:
+  - Environment
+- key: oceans
+  topics:
+  - Environment
+- key: engineeringGeology
+  topics:
+  - Geoscientific Information
+- key: Oceans
+  topics:
+  - Oceans
+- key: Health
+  topics:
+  - Health
+- key: Health and Human Services
+  topics:
+  - Health
+- key: Ambiente
+  topics:
+  - Environment
+- key: Economy, Business, SME, Economic development, Employment
+  topics:
+  - Economy
+- key: Finance
+  topics:
+  - Economy
+- key: Maps and geospatial
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Terra
+  topics:
+  - Planning / Cadastre
+- key: Gouvernement et finances
+  topics:
+  - Economy
+- key: Environment
+  topics:
+  - Environment
+- key: 'International Trade '
+  topics:
+  - Economy
+- key: Surveys
+  topics:
+  - Society
+- key: Business
+  topics:
+  - Economy
+- key: Transportation
+  topics:
+  - Transportation
+- key: Territory and environment
+  topics:
+  - Planning / Cadastre
+- key: Water, energy, resources, environment and science
+  topics:
+  - Environment
+- key: Government and Taxes
+  topics:
+  - Economy
+- key: "Mobilit\xE9"
+  topics:
+  - Transportation
+- key: "D\xE9placements - transports"
+  topics:
+  - Transportation
+- key: "Demograf\xEDa"
+  topics:
+  - Society
+- key: Population and Housing
+  topics:
+  - Society
+- key: mineralResources
+  topics:
+  - Geoscientific Information
+- key: Social Services
+  topics:
+  - Society
+- key: "Mobilit\xE0 e trasporti"
+  topics:
+  - Transportation
+- key: Ordenamiento Territorial
+  topics:
+  - Planning / Cadastre
+- key: 'Agriculture and Allied Activities '
+  topics:
+  - Farming
+- key: Government & Finance
+  topics:
+  - Economy
+- key: Trasporti
+  topics:
+  - Transportation
+- key: Mobility and Transport
+  topics:
+  - Transportation
+- key: Energy and Environment
+  topics:
+  - Environment
+- key: Biota
+  topics:
+  - Biota
+- key: ClimatologyMeteorologyAtmosphere
+  topics:
+  - Climatology / Meteorology / Atmosphere
+- key: "Soc.Demogr\xE1fico"
+  topics:
+  - Society
+- key: Economic Sector
+  topics:
+  - Economy
+- key: Economia
+  topics:
+  - Economy
+- key: Instrumentos e Projetos Territoriais
+  topics:
+  - Planning / Cadastre
+- key: "Am\xE9nagement du territoire, Urbanisme, B\xE2timents, Equipements, Logement"
+  topics:
+  - Planning / Cadastre
+- key: BUDGET DE L'ETAT
+  topics:
+  - Economy
+- key: Vehicle Speed
+  topics:
+  - Transportation
+- key: GeoscientificInformation
+  topics:
+  - Geoscientific Information
+- key: "Am\xE9nagement du territoire"
+  topics:
+  - Planning / Cadastre
+- key: Labor Market
+  topics:
+  - Economy
+- key: Census
+  topics:
+  - Society
+- key: economia
+  topics:
+  - Economy
+- key: Demographics
+  topics:
+  - Society
+- key: Territoires
+  topics:
+  - Planning / Cadastre
+- key: Economie
+  topics:
+  - Economy
+- key: land use and development
+  topics:
+  - Planning / Cadastre
+- key: Medio Ambiente
+  topics:
+  - Environment
+- key: geophysics
+  topics:
+  - Geoscientific Information
+- key: Planning & Development
+  topics:
+  - Planning / Cadastre
+- key: Meteo
+  topics:
+  - Environment
+- key: Radiation
+  topics:
+  - Environment
+- key: Population
+  topics:
+  - Society
+- key: Agriculture
+  topics:
+  - Farming
+- key: "Transports, D\xE9placements, Mobilit\xE9"
+  topics:
+  - Transportation
+- key: "\xC9conomie, Business, PME, D\xE9veloppement \xE9conomique, Emploi"
+  topics:
+  - Economy
+- key: Housing
+  topics:
+  - Structure
+  - Planning / Cadastre
+- key: Communications
+  topics:
+  - Utilities / Communication
+- key: GIS/Maps
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Housing & Development
+  topics:
+  - Structure
+- key: "\u4EA4\u901A"
+  topics:
+  - Transportation
+- key: Mobility
+  topics:
+  - Transportation
+- key: "\u4EBA\u53E3\u6E1B\u5C11\u30FB\u5C11\u5B50\u9AD8\u9F62\u5316"
+  topics:
+  - Society
+- key: "\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E41\u0E25\u0E30\u0E2A\u0E34\u0E48\u0E07\u0E41\u0E27\u0E14\u0E25\u0E49\u0E2D\u0E21"
+  topics:
+  - Environment
+- key: "Territoires et r\xE9gions"
+  topics:
+  - Planning / Cadastre
+- key: Administration & Finance
+  topics:
+  - Economy
+- key: Weather Conditions
+  topics:
+  - Environment
+- key: Finanzas
+  topics:
+  - Economy
+- key: Business and Economy
+  topics:
+  - Economy
+- key: Cadre de vie - environnement
+  topics:
+  - Environment
+- key: Territoires, Agriculture et Innovations
+  topics:
+  - Farming
+- key: Food, Civil Supplies and Co-operation
+  topics:
+  - Farming
+- key: Business
+  topics:
+  - Economy
+- key: Economic Development
+  topics:
+  - Economy
+- key: "Mobilit\xE9 et transports"
+  topics:
+  - Transportation
+- key: "Governo e Finan\xE7as P\xFAblicas"
+  topics:
+  - Economy
+- key: Natural Resources & Environment
+  topics:
+  - Environment
+- key: "Econom\xEDa y Finanzas"
+  topics:
+  - Economy
+- key: Housing, land, planning and infrastructure
+  topics:
+  - Planning / Cadastre
+- key: Environnement, Cadre de vie
+  topics:
+  - Environment
+- key: Sociedad
+  topics:
+  - Society
+- key: Infrastrutture e trasporti
+  topics:
+  - Transportation
+- key: Health & Human Services
+  topics:
+  - Health
+- key: Recreation
+  topics:
+  - Health
+- key: Health & Public Safety
+  topics:
+  - Health
+- key: "Limites administratives et r\xE9f\xE9rentiels"
+  topics:
+  - Boundaries
+- key: Family & Health
+  topics:
+  - Health
+- key: "Agroganader\xEDa, pesca y forestaci\xF3n"
+  topics:
+  - Farming
+- key: Health Sciences
+  topics:
+  - Health
+- key: "\u5065\u5EB7/\u7167\u8B77/\u793E\u798F"
+  topics:
+  - Health
+- key: Demography
+  topics:
+  - Society
+- key: "Economie, Business, PME, D\xE9veloppement \xE9conomique, Emploi"
+  topics:
+  - Economy
+- key: "Donn\xE9es territoriales"
+  topics:
+  - Planning / Cadastre
+- key: nonMetallicMinerals
+  topics:
+  - Geoscientific Information
+- key: gold
+  topics:
+  - Geoscientific Information
+- key: Economy and Planning
+  topics:
+  - Economy
+- key: Community & Economic Development
+  topics:
+  - Economy
+- key: Land Cover
+  topics:
+  - Planning / Cadastre
+- key: Imagerie et occupation du sol
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: "Soci\xE9t\xE9 et culture"
+  topics:
+  - Society
+- key: Social
+  topics:
+  - Society
+- key: Transport
+  topics:
+  - Transportation
+- key: Economia e finanza
+  topics:
+  - Economy
+- key: Society
+  topics:
+  - Society
+- key: Community
+  topics:
+  - Society
+- key: Meio Ambiente
+  topics:
+  - Environment
+- key: Finances
+  topics:
+  - Economy
+- key: Climate
+  topics:
+  - Environment
+- key: Trade
+  topics:
+  - Economy
+- key: Irrigation and Water Resources
+  topics:
+  - Farming
+- key: Inland Waters
+  topics:
+  - Environment
+- key: Finances
+  topics:
+  - Economy
+- key: Prices and Indices
+  topics:
+  - Economy
+- key: Economy
+  topics:
+  - Economy
+- key: Water
+  topics:
+  - Environment
+- key: Demographics
+  topics:
+  - Society
+- key: Hydrology
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Imagery
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Equipements, Services, Social
+  topics:
+  - Society
+- key: Economie et entreprises
+  topics:
+  - Economy
+- key: "Ekonomika un uz\u0146\u0113m\u0113jdarb\u012Bba"
+  topics:
+  - Economy
+- key: "Popolazione e societ\xE0"
+  topics:
+  - Society
+- key: Life Sciences
+  topics:
+  - Health
+- key: Industry
+  topics:
+  - Economy
+- key: "Citoyennet\xE9 , D\xE9mocratie"
+  topics:
+  - Society
+- key: Humidity
+  topics:
+  - Climatology / Meteorology / Atmosphere
+- key: Imagery + Basemaps
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Medicare
+  topics:
+  - Health
+- key: Business & Economics
+  topics:
+  - Economy
+- key: Environment and Forests
+  topics:
+  - Environment
+  - Farming
+- key: Climate Change Adaptation
+  topics:
+  - Environment
+- key: Transport, Movements
+  topics:
+  - Transportation
+- key: Health Facilities
+  topics:
+  - Health
+- key: 'National Accounts '
+  topics:
+  - Economy
+- key: Demographie
+  topics:
+  - Society
+- key: Societate
+  topics:
+  - Society
+- key: Landscape Dynamics
+  topics:
+  - Planning / Cadastre
+- key: Land Use & Development
+  topics:
+  - Planning / Cadastre
+- key: Vegetation
+  topics:
+  - Farming
+- key: Transporte
+  topics:
+  - Transportation
+- key: Industria
+  topics:
+  - Economy
+- key: Trade
+  topics:
+  - Economy
+- key: Agropecuario y Pesca
+  topics:
+  - Farming
+- key: Geographic Locations and Boundaries
+  topics:
+  - Boundaries
+- key: Business and Economy
+  topics:
+  - Economy
+- key: Klimatologi
+  topics:
+  - Climatology / Meteorology / Atmosphere
+- key: Health and wellbeing
+  topics:
+  - Health
+- key: Land Monitor
+  topics:
+  - Planning / Cadastre
+- key: Health outcome
+  topics:
+  - Health
+- key: "D\xE9veloppement \xE9conomique"
+  topics:
+  - Economy
+- key: vegetation/ecology
+  topics:
+  - Environment

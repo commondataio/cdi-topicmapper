@@ -19,8 +19,8 @@ def run():
   keywords = {}
   topics = {}
   client = MongoClient()
-  db = client['ckan']
-  coll = db['dataset']
+  db = client['cdicommondata']
+  coll = db['ckan']
   n = 0
   total = coll.count_documents({})
   for record in coll.find():
