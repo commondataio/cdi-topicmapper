@@ -1314,3 +1314,70 @@
 - key: vegetation/ecology
   topics:
   - Environment
+- key: Agriculture & Rural Development
+  topics:
+  - Agriculture, fisheries, forestry and food
+- key: Climate Change
+  topics:
+  - Environment
+- key: Economy & Growth
+  topics:
+  - Economy and finance
+- key: Financial Sector
+  topics:
+  - Economy and finance
+- key: External Debt
+  topics:
+  - Economy and finance
+- key: Trade
+  topics:
+  - Economy and finance
+- key: Environment
+  topics:
+  - Environment
+- key: Energy & Mining
+  topics:
+  - Energy
+- key: Urban Development
+  topics:
+  - Regions and cities
+- key: Education
+  topics:
+  - Education, culture and sport
+- key: Health
+  topics:
+  - Health
+- key: Gender
+  topics:
+  - Population and society
+- key: Poverty
+  topics:
+  - Population and society
+- key: Social Development
+  topics:
+  - Population and society
+- key: Social Protection & Labor
+  topics:
+  - Population and society
+- key: Infrastructure
+  topics:
+  - Regions and cities
+- key: Public Sector
+  topics:
+  - Government and public sector
+- key: Science & Technology
+  topics:
+  - Science and technology
+- key: Aid Effectiveness
+  topics:
+  - Economy and finance
+  - International issues
+- key: Millenium development goals
+  topics:
+  - Population and society  
+- key: Private Sector
+  topics:
+  - Economy and finance
+- key: Salud y Protección Social
+  topics:
+  - Health

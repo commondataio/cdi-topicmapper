@@ -1169,3 +1169,9 @@
 - key: vegetation/ecology
   topics:
   - Environment
+- key: Wildlife
+  topics:
+  - Biota
+- key: Salud y Protección Social
+  topics:
+  - Health
