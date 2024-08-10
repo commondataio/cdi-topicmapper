@@ -1,1177 +1,4031 @@
-- key: Bebauungsplan
+- key: Locational banking statistics
   topics:
-  - Planning / Cadastre
-- key: Bodennutzung
+  - Economy
+- key: International debt securities (BIS-compiled)
   topics:
-  - Planning / Cadastre
-- key: earth science > paleoclimate > tree ring
+  - Economy
+- key: Consolidated banking statistics
   topics:
-  - Geoscientific Information
-- key: Bauleitplan
+  - Economy
+- key: Performance
   topics:
-  - Planning / Cadastre
-- key: "Bebauungspl\xE4ne"
-  topics:
-  - Planning / Cadastre
-- key: "Bauleitpl\xE4ne"
-  topics:
-  - Planning / Cadastre
-- key: Bauvorschrift
-  topics:
-  - Structure
-- key: Bauplatz
-  topics:
-  - Structure
-- key: "Baupl\xE4tze"
-  topics:
-  - Structure
+  - Economy
 - key: planningCadastre
   topics:
   - Planning / Cadastre
+- key: oceans
+  topics:
+  - Environment
 - key: geoscientificInformation
   topics:
   - Geoscientific Information
+- key: environment
+  topics:
+  - Environment
+- key: Geoscience
+  topics:
+  - Geoscientific Information
+- key: climatologyMeteorologyAtmosphere
+  topics:
+  - Environment
 - key: imageryBaseMapsEarthCover
   topics:
   - Imagery / Base Maps / Earth Cover
-- key: PlannedLandUse
+- key: Learning Poverty
   topics:
-  - Planning / Cadastre
-- key: Planungsunterlagen, Kataster
+  - Society
+- key: Social Protection & Labor
   topics:
-  - Planning / Cadastre
-- key: Geoscientific information
-  topics:
-  - Geoscientific Information
-- key: oceans
-  topics:
-  - Oceans
+  - Society
 - key: Infrastruktur, Bauen & Wohnen
   topics:
   - Structure
-- key: latitude
+- key: Sea Surface Temperature Forecast
   topics:
-  - Location
-- key: longitude
-  topics:
-  - Location
-- key: Bauleitplanung
-  topics:
-  - Planning / Cadastre
-- key: Oceans
-  topics:
+  - Climatology / Meteorology / Atmosphere
   - Oceans
-- key: earth science
+- key: 'Quintile: Health'
   topics:
-  - Geoscientific Information
-- key: ocean
+  - Health
+- key: Wellbeing
   topics:
-  - Oceans
-- key: climatologyMeteorologyAtmosphere
-  topics:
-  - Climatology / Meteorology / Atmosphere
-- key: environment
-  topics:
-  - Environment
-- key: "Oberfl\xE4chenbeschreibung"
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Geobasisdaten
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Climatology, meteorology, atmosphere
-  topics:
-  - Climatology / Meteorology / Atmosphere
-- key: environment
-  topics:
-  - Environment
-- key: atmosphere
-  topics:
-  - Climatology / Meteorology / Atmosphere
-- key: biosphere
+  - Health
+- key: biota
   topics:
   - Biota
-- key: Imagery base maps earth cover
+- key: Education Equality
   topics:
-  - Imagery / Base Maps / Earth Cover
-- key: sea_water_temperature
+  - Society
+- key: Population
   topics:
-  - Inland Waters
-  - Oceans
-- key: oceanography
+  - Society
+- key: Social Sciences
   topics:
-  - Inland Waters
-  - Oceans
-- key: Environment
+  - Society
+- key: Gender
   topics:
-  - Environment
-- key: Geoinformation
+  - Society
+- key: Early Childhood Education
   topics:
-  - Imagery / Base Maps / Earth Cover
-- key: water
+  - Society
+- key: Debt securities statistics
   topics:
-  - Inland Waters
-  - Oceans
-- key: Geology
+  - Economy
+- key: 'Health: Population: Structure'
   topics:
-  - Geoscientific Information
-- key: Planification/Cadastre
+  - Health
+- key: "\xD6ffentliche Verwaltung, Haushalt & Steuern"
   topics:
-  - Planning / Cadastre
-- key: national centers for environmental information
+  - Economy
+- key: Arts and Humanities
   topics:
-  - Environment
-- key: biology
+  - Society
+- key: 'Health: Risk factors'
   topics:
-  - Biota
-- key: sea_water_practical_salinity
+  - Health
+- key: "Bev\xF6lkerung und Gesellschaft"
   topics:
-  - Oceans
-- key: bathymetry
+  - Society
+- key: Teachers
   topics:
-  - Oceans
-  - Inland Waters
-- key: AquaMaps
-  topics:
-  - Oceans
-  - Inland Waters
-  - Imagery / Base Maps / Earth Cover
-- key: location
-  topics:
-  - Location
-- key: water depth
-  topics:
-  - Oceans
-- key: sea
-  topics:
-  - Oceans
+  - Society
 - key: Umwelt
   topics:
   - Environment
-- key: GEOSCIENCES-Geology
+- key: Education Expenditures
   topics:
-  - Geoscientific Information
-- key: biota
+  - Society
+- key: "Regierung und \xF6ffentlicher Sektor"
   topics:
-  - Biota
-- key: biota
+  - Economy
+- key: Country profile
   topics:
-  - Biota
-- key: environment
+  - Economy
+- key: 'Economic Policy & Debt: Official development assistance'
   topics:
-  - Environment
+  - Economy
 - key: elevation
   topics:
   - Elevation
-- key: geoscientificinformation
+- key: 'Social Protection & Labor: Economic activity'
   topics:
-  - Geoscientific Information
+  - Society
+- key: 'Private Sector & Trade: Business environment'
+  topics:
+  - Economy
+- key: Land
+  topics:
+  - Planning / Cadastre
 - key: "Bev\xF6lkerung"
   topics:
   - Society
-- key: Umwelt & Klima
+- key: Literacy
   topics:
-  - Environment
-- key: transportation
+  - Society
+- key: 'Health: Mortality'
   topics:
-  - Transportation
-- key: inlandWaters
-  topics:
-  - Inland Waters
+  - Health
 - key: Landwirtschaft, Fischerei, Forstwirtschaft und Nahrungsmittel
   topics:
   - Farming
+- key: Umwelt & Klima
+  topics:
+  - Environment
+- key: International Aid to Education
+  topics:
+  - Society
+- key: Usage of Financial Services
+  topics:
+  - Society
 - key: Transport & Verkehr
   topics:
   - Transportation
-- key: Ambiente
+- key: Wirtschaft und Finanzen
   topics:
-  - Environment
+  - Economy
+- key: Oceans
+  topics:
+  - Oceans
+- key: Verkehr
+  topics:
+  - Transportation
+- key: 'Education: Outcomes'
+  topics:
+  - Society
+- key: Earth and Environmental Sciences
+  topics:
+  - Geoscientific Information
+- key: 'Education: Participation'
+  topics:
+  - Society
 - key: boundaries
   topics:
   - Boundaries
 - key: Soziales
   topics:
   - Society
-- key: "Bev\xF6lkerung und Gesellschaft"
+- key: Violence
   topics:
   - Society
-- key: Land
+- key: Engaging the Private Sector (SABER)
   topics:
-  - Planning / Cadastre
-- key: health
+  - Economy
+- key: transportation
+  topics:
+  - Transportation
+- key: 'Financial Sector: Access'
+  topics:
+  - Economy
+- key: Medicine, Health and Life Sciences
   topics:
   - Health
+- key: 'Environment: Emissions'
+  topics:
+  - Environment
+- key: Health
+  topics:
+  - Health
+- key: 'Education: Inputs'
+  topics:
+  - Society
+- key: inlandWaters
+  topics:
+  - Inland Waters
+- key: location
+  topics:
+  - Location
+- key: 'Health: Disease prevention'
+  topics:
+  - Health
+- key: 'Infrastructure: Communications'
+  topics:
+  - Utilities / Communication
+- key: 'Environment: Energy production & use'
+  topics:
+  - Environment
 - key: Biodiversity
   topics:
   - Biota
-- key: Wirtschaft und Finanzen
+- key: Nearshore Sea State Forecast From SWAN
   topics:
-  - Economy
-- key: Land
+  - Climatology / Meteorology / Atmosphere
+  - Oceans
+- key: '{"de": "Umwelt", "en": "Environment", "fr": "Environnement", "it": "Ambiente"}'
   topics:
-  - Planning / Cadastre
-- key: Earth Science
-  topics:
-  - Geoscientific Information
-- key: "X\xE3 h\u1ED9i"
+  - Environment
+- key: 'Quintile: Population'
   topics:
   - Society
-- key: society
+- key: Education
   topics:
   - Society
-- key: Verkehr
-  topics:
-  - Transportation
-- key: imagerybasemapsearthcover
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: "Popolazione e societ\xE0"
-  topics:
-  - Society
-- key: farming
-  topics:
-  - Farming
-- key: structure
-  topics:
-  - Structure
 - key: Gesundheit
   topics:
   - Health
-- key: population
+- key: society
   topics:
   - Society
-- key: utilitiesCommunication
+- key: 'Social Protection & Labor: Labor force structure'
   topics:
-  - Utilities / Communication
+  - Society
+- key: 'Private Sector & Trade: Exports'
+  topics:
+  - Economy
+- key: 'Health: Health systems'
+  topics:
+  - Health
+- key: 'Social Protection & Labor: Unemployment'
+  topics:
+  - Society
+- key: 'Economic Policy & Debt: External debt: Net flows'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: Balance of payments: Current account: Goods, services
+    & income'
+  topics:
+  - Economy
+- key: 'Health: Nutrition'
+  topics:
+  - Health
+- key: 'Private Sector & Trade: Tariffs'
+  topics:
+  - Economy
+- key: Employment and Time Use
+  topics:
+  - Society
+- key: 'Private Sector & Trade: Imports'
+  topics:
+  - Economy
+- key: structure
+  topics:
+  - Structure
+- key: 'Economic Policy & Debt: External debt: Debt outstanding'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: Adjusted savings & income'
+  topics:
+  - Economy
+- key: School Autonomy and Accountability (SABER)
+  topics:
+  - Society
+- key: Teachers (SABER)
+  topics:
+  - Society
+- key: Meteo
+  topics:
+  - Environment
+- key: 'Health: Universal Health Coverage'
+  topics:
+  - Health
+- key: 'Economic Policy & Debt: National accounts: Shares of GDP & other'
+  topics:
+  - Economy
+- key: 'Environment: Agricultural production'
+  topics:
+  - Farming
 - key: Wirtschaft & Arbeit
   topics:
   - Economy
-- key: census
+- key: 'Social Protection & Labor: Performance'
   topics:
   - Society
-- key: Ortoimagen
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: "Im\xE1genes Orto-rectificadas"
-  topics:
-  - Planning / Cadastre
-- key: "Verteilung der Bev\xF6lkerung \u2014 Demografie"
-  topics:
-  - Society
-- key: climatologyMeteorologyAtmosphere
+- key: 'Environment: Land use'
   topics:
   - Environment
-- key: covid-19
+- key: Environment
   topics:
-  - Health
+  - Environment
+- key: utilitiesCommunication
+  topics:
+  - Utilities / Communication
+- key: Depth
+  topics:
+  - Elevation
+- key: Trading across borders
+  topics:
+  - Economy
+- key: farming
+  topics:
+  - Farming
 - key: economy
   topics:
   - Economy
-- key: Budget
+- key: 'Health: Reproductive health'
+  topics:
+  - Health
+- key: 'Education: Efficiency'
+  topics:
+  - Society
+- key: Education Management Information Systems (SABER)
+  topics:
+  - Society
+- key: 'Public Sector: Government finance: Revenue'
+  topics:
+  - Economy
+- key: "{\"de\": \"Bev\xF6lkerung und Gesellschaft\", \"en\": \"Population and society\",
+    \"fr\": \"Population et soci\xE9t\xE9\", \"it\": \"Popolazione e societ\xE0\"}"
+  topics:
+  - Society
+- key: 'Economic Policy & Debt: External debt: Debt service'
+  topics:
+  - Economy
+- key: 'Infrastructure: Transportation'
+  topics:
+  - Transportation
+- key: Transportation
+  topics:
+  - Transportation
+- key: 'Public Sector: Government finance: Deficit & financing'
   topics:
   - Economy
 - key: Coastal and Marine
   topics:
   - Oceans
   - Inland Waters
-- key: gulf of mexico
-  topics:
-  - Oceans
-- key: coastal maps
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Budget Commission
+- key: 'Private Sector & Trade: Trade facilitation'
   topics:
   - Economy
-- key: AquaMaps Native 2050
+- key: health
   topics:
-  - Imagery / Base Maps / Earth Cover
-  - Oceans
-  - Inland Waters
-- key: AquaMaps Native
+  - Health
+- key: 'Financial Sector: Assets'
   topics:
-  - Imagery / Base Maps / Earth Cover
-  - Oceans
-  - Inland Waters
-- key: Economia e finanze
+  - Economy
+- key: Agricultural Sciences
+  topics:
+  - Farming
+- key: 'Financial Inclusion : Permitted Activities'
+  topics:
+  - Economy
+- key: "Demograf\xEDa"
+  topics:
+  - Society
+- key: Water
+  topics:
+  - Environment
+- key: 'Public Sector: Government finance: Expense'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: External debt: Interest'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: External debt: Disbursements'
+  topics:
+  - Economy
+- key: School Finance (SABER)
+  topics:
+  - Economy
+- key: 'Poverty: Poverty rates'
+  topics:
+  - Economy
+- key: "{\"de\": \"Bildung, Kultur und Sport\", \"en\": \"Education, culture and sport\",
+    \"fr\": \"\xC9ducation, culture et sport\", \"it\": \"Istruzione, cultura e sport\"}"
+  topics:
+  - Society
+- key: 'Economic Policy & Debt: External debt: Amortization'
+  topics:
+  - Economy
+- key: Geographie, Geologie &Geodaten
+  topics:
+  - Environment
+- key: Tertiary Education (SABER)
+  topics:
+  - Society
+- key: 'Economic Policy & Debt: National accounts: Growth rates'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: External debt: Net transfers'
+  topics:
+  - Economy
+- key: Paying taxes
   topics:
   - Economy
 - key: Built Environment
   topics:
-  - Structure
-- key: Census
-  topics:
-  - Society
-- key: health
-  topics:
-  - Health
-- key: demographics
-  topics:
-  - Society
-- key: Environmental monitoring facilities
-  topics:
   - Environment
-- key: "\u751F\u6D3B"
-  topics:
-  - Health
-- key: Gulf of Mexico
-  topics:
-  - Oceans
-- key: Geographie, Geologie &Geodaten
-  topics:
-  - Environment
-- key: pre-approval-maps
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Health
-  topics:
-  - Health
-- key: orthoimagery
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Health
-  topics:
-  - Health
-- key: Environmental Monitoring
-  topics:
-  - Environment
-- key: environmental
-  topics:
-  - Environment
-- key: budget
+- key: 'Economic Policy & Debt: National accounts: Local currency at current prices:
+    Expenditure on GDP'
   topics:
   - Economy
-- key: imagen satelital
+- key: Financial Capability
   topics:
-  - Imagery / Base Maps / Earth Cover
+  - Economy
+- key: Student Assessment (SABER)
+  topics:
+  - Society
+- key: Wildlife
+  topics:
+  - Biota
+- key: Protecting minority investors
+  topics:
+  - Economy
+- key: 'Health: Population: Dynamics'
+  topics:
+  - Health
+- key: Salud
+  topics:
+  - Health
+- key: Finance
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: Balance of payments: Capital & financial account'
+  topics:
+  - Economy
+- key: 'Financial Inclusion : Third-Party Agents'
+  topics:
+  - Economy
+- key: 'Financial Sector: Monetary holdings (liabilities)'
+  topics:
+  - Economy
+- key: "\u53F8\u6CD5\u30FB\u5B89\u5168\u30FB\u74B0\u5883"
+  topics:
+  - Environment
+- key: Tidal Data
+  topics:
+  - Oceans
+  - Inland Waters
+- key: 'Economic Policy & Debt: National accounts: US$ at current prices: Expenditure
+    on GDP'
+  topics:
+  - Economy
+- key: StatFin
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: Purchasing power parity'
+  topics:
+  - Economy
+- key: Ambiente
+  topics:
+  - Environment
+- key: 'Economic Policy & Debt: External debt: Debt ratios & other items'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: Local currency at constant prices:
+    Expenditure on GDP'
+  topics:
+  - Economy
+- key: 'Financial Sector: Exchange rates & prices'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: US$ at current prices: Aggregate
+    indicators'
+  topics:
+  - Economy
+- key: 'Public Sector: Conflict & fragility'
+  topics:
+  - Society
+- key: 'Financial Inclusion : Product Authorization'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: Local currency at current prices:
+    Aggregate indicators'
+  topics:
+  - Economy
+- key: Transport
+  topics:
+  - Transportation
+- key: Early Child Development (SABER)
+  topics:
+  - Society
+- key: Workforce Development (SABER)
+  topics:
+  - Society
+- key: 'Environment: Density & urbanization'
+  topics:
+  - Environment
+- key: "Popolazione e societ\xE0"
+  topics:
+  - Society
+- key: 'Financial Consumer Protection : Disclosure requirements'
+  topics:
+  - Economy
+- key: "Educaci\xF3n"
+  topics:
+  - Society
+- key: "{\"de\": \"Wirtschaft und Finanzen\", \"en\": \"Economy and finance\", \"fr\":
+    \"\xC9conomie et finances\", \"it\": \"Economia e finanze\"}"
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: Balance of payments: Current account: Transfers'
+  topics:
+  - Economy
+- key: Trade
+  topics:
+  - Economy
+- key: School Safety/Violence
+  topics:
+  - Society
+- key: "\u6559\u80B2\u30FB\u6587\u5316\u30FB\u30B9\u30DD\u30FC\u30C4\u30FB\u751F\u6D3B"
+  topics:
+  - Society
+- key: 'Economic Policy & Debt: National accounts: Local currency at constant prices:
+    Aggregate indicators'
+  topics:
+  - Economy
+- key: 'Environment: Water pollution'
+  topics:
+  - Environment
 - key: Land and Resource Management
   topics:
   - Planning / Cadastre
-- key: GEOSCIENTIFICINFORMATION
+- key: 'Financial Consumer Protection : Alternative Dispute Resolution'
   topics:
-  - Geoscientific Information
-- key: imagery
+  - Economy
+- key: Sociedad y bienestar
   topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Trasporti
+  - Society
+- key: '{"de": "Verkehr", "en": "Transport", "fr": "Transports", "it": "Trasporti"}'
   topics:
   - Transportation
-- key: image-collections
+- key: Exchange-traded derivatives statistics
   topics:
-  - Imagery / Base Maps / Earth Cover
+  - Economy
+- key: 'Gender: Public life & decision making'
+  topics:
+  - Society
+- key: 'Financial Inclusion : Simplified Customer Due Diligence'
+  topics:
+  - Economy
+- key: 'Financial Inclusion : Interest Rate Caps'
+  topics:
+  - Economy
+- key: 'Financial Consumer Protection : Frequent Complaints'
+  topics:
+  - Economy
+- key: Bilateral exchange rates
+  topics:
+  - Economy
+- key: School Health and School Feeding (SABER)
+  topics:
+  - Health
+- key: 'Poverty: Income distribution'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Expenditure
+    on GDP'
+  topics:
+  - Economy
+- key: 'Environment: Freshwater'
+  topics:
+  - Environment
 - key: Environment and conservation
   topics:
   - Environment
-- key: Environment
-  topics:
-  - Environment
-- key: Society
-  topics:
-  - Society
-- key: budgets
+- key: Credit to the non-financial sector
   topics:
   - Economy
-- key: Environmental Monitoring Facilities
+- key: "{\"de\": \"Landwirtschaft, Fischerei, Forstwirtschaft und Nahrungsmittel\",
+    \"en\": \"Agriculture, fisheries, forestry and food\", \"fr\": \"Agriculture,
+    p\xEAche, sylviculture et alimentation\", \"it\": \"Agricoltura, pesca, silvicoltura
+    e prodotti alimentari\"}"
+  topics:
+  - Farming
+- key: 'Environment: Biodiversity & protected areas'
   topics:
   - Environment
-- key: Population
+- key: Economy
   topics:
-  - Society
-- key: marine environment monitoring
-  topics:
-  - Environment
-- key: Buildings
-  topics:
-  - Structure
-- key: Plant Production and Health
+  - Economy
+- key: 'Gender: Health'
   topics:
   - Health
-- key: geology
+- key: 'Private Sector & Trade: Private infrastructure investment'
   topics:
-  - Geoscientific Information
-- key: environmental monitoring
+  - Economy
+- key: Poverty:Multidimensional poverty
   topics:
-  - Environment
-- key: gulf-of-mexico
+  - Economy
+- key: 'Public Sector: Defense & arms trade'
   topics:
-  - Oceans
-- key: Environnement
+  - Economy
+- key: 'Financial Consumer Protection : Business Conduct'
   topics:
-  - Environment
+  - Economy
+- key: 'Economic Policy & Debt: External debt: Arrears, reschedulings, etc.'
+  topics:
+  - Economy
+- key: 'Financial Sector: Interest rates'
+  topics:
+  - Economy
+- key: Community
+  topics:
+  - Society
 - key: Financial Inclusion
+  topics:
+  - Economy
+- key: 'Financial Consumer Protection : Institutional Arrangements'
+  topics:
+  - Economy
+- key: Atmosphere and Climate
+  topics:
+  - Climatology / Meteorology / Atmosphere
+- key: 'Economic Policy & Debt: Balance of payments: Reserves & other items'
   topics:
   - Economy
 - key: "Inclus\xE3o Financeira"
   topics:
   - Economy
-- key: geoscientificInformation
+- key: "\u751F\u6D3B"
   topics:
-  - Geoscientific Information
-- key: Atmosphere and Climate
+  - Health
+- key: Quality of Financial Services
   topics:
-  - Climatology / Meteorology / Atmosphere
-- key: baseline population
+  - Economy
+- key: Financial Literacy and Capability
   topics:
-  - Society
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: Local currency at current prices:
+    Value added'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: Local currency at constant prices:
+    Value added'
+  topics:
+  - Economy
 - key: Geographie und Stadtplanung
   topics:
   - Planning / Cadastre
-- key: society
+- key: 'Financial Sector: Capital markets'
   topics:
-  - Society
-- key: Housing & Properties
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Value
+    added'
   topics:
-  - Planning / Cadastre
-- key: planning-cadastre
+  - Economy
+- key: 'Financial Inclusion : Electronic Money'
   topics:
-  - Planning / Cadastre
-- key: COVID-19
-  topics:
-  - Health
-- key: Building
-  topics:
-  - Structure
+  - Economy
 - key: Medio ambiente
   topics:
   - Environment
-- key: Sensitivity maps
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Population
-  topics:
-  - Society
-- key: Health
+- key: Health and health behaviour
   topics:
   - Health
-- key: geoscientific-information
-  topics:
-  - Geoscientific Information
-- key: Ortho-imagerie
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: demographic
-  topics:
-  - Society
-- key: coastal base map
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Coastal Base Map
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Earth Science > Oceans > Marine Environment Monitoring
-  topics:
-  - Environment
-  - Oceans
-- key: Transport
-  topics:
-  - Transportation
-- key: planningCadastre
-  topics:
-  - Planning / Cadastre
-- key: Society
-  topics:
-  - Society
-- key: intelligenceMilitary
-  topics:
-  - Intelligence / Military
-- key: Climatology
-  topics:
-  - Environment
-- key: census data
-  topics:
-  - Society
-- key: Climate Indices
-  topics:
-  - Environment
-- key: Contratos
-  topics:
-  - Economy
-- key: Salud
-  topics:
-  - Health
-- key: Marine Environmental Data and Information Network
-  topics:
-  - Environment
-  - Oceans
-- key: Salud
-  topics:
-  - Health
-- key: OCEAN > ATLANTIC OCEAN > NORTH ATLANTIC OCEAN > GULF OF MEXICO`
-  topics:
-  - Oceans
-- key: printed-maps
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Remotely Sensed Imagery/Photography
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: basemap
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: salud
-  topics:
-  - Health
-- key: demografia
-  topics:
-  - Society
-- key: Transportation
-  topics:
-  - Transportation
-- key: Natural Environment Research Council Designated Data Centres
-  topics:
-  - Environment
-- key: Inland Waters
-  topics:
-  - Inland Waters
-- key: "Economia e Finan\xE7as"
-  topics:
-  - Economy
-- key: buildings
-  topics:
-  - Structure
-- key: Budget Vote Documents
-  topics:
-  - Economy
-- key: planningcadastre
-  topics:
-  - Planning / Cadastre
-- key: source-geologic-maps
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: source-maps
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Economy
-  topics:
-  - Economy
-- key: Planning cadastre
-  topics:
-  - Planning / Cadastre
-- key: sensitivity maps
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: orthoimagerie
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: coronavirus
-  topics:
-  - Health
-- key: Salute
-  topics:
-  - Health
-- key: Environment
-  topics:
-  - Environment
-- key: hydrogeology
-  topics:
-  - Oceans
-  - Inland Waters
-- key: Economy and finance
-  topics:
-  - Economy
-- key: Agriculture and Fishing
-  topics:
-  - Farming
-- key: Temperature
-  topics:
-  - Environment
-- key: Energy & Environment
-  topics:
-  - Environment
-- key: "\u0E2A\u0E32\u0E02\u0E32\u0E40\u0E01\u0E29\u0E15\u0E23\u0E41\u0E25\u0E30\u0E1B\u0E23\u0E30\u0E21\u0E07"
-  topics:
-  - Farming
-- key: Pertanian
-  topics:
-  - Farming
 - key: "Econom\xEDa"
   topics:
   - Economy
-- key: Precipitation
+- key: 'Economic Policy & Debt: National accounts: US$ at current prices: Value added'
+  topics:
+  - Economy
+- key: 'Poverty: Shared prosperity'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Aggregate
+    indicators'
+  topics:
+  - Economy
+- key: 'Environment: Natural resources contribution to GDP'
   topics:
   - Environment
-- key: "\u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u063A\u0630\u0627\u0626\u064A"
+- key: Agricultural census and farm structure survey
   topics:
   - Farming
 - key: Climate
   topics:
   - Environment
-- key: Ekonomi
-  topics:
-  - Economy
-- key: Adjusted Budget Vote Documents
-  topics:
-  - Economy
-- key: "Transports, D\xE9placements"
-  topics:
-  - Transportation
-- key: Bancian
-  topics:
-  - Society
-- key: "\u74B0\u5883"
+- key: 'Environment: Environment/climate risk & resilience'
   topics:
   - Environment
-- key: Kesihatan
+- key: "Economia e Finan\xE7as"
   topics:
-  - Health
-- key: population
+  - Economy
+- key: Ocean Networks Canada
+  topics:
+  - Oceans
+- key: Ocean Networks Canada Society
+  topics:
+  - Oceans
+- key: Society
   topics:
   - Society
-- key: "16) \u0E40\u0E28\u0E23\u0E29\u0E10\u0E01\u0E34\u0E08\u0E10\u0E32\u0E19\u0E23\u0E32\u0E01"
+- key: 'Financial Consumer Protection : Supervisory Activities'
+  topics:
+  - Economy
+- key: Economy. Archive
+  topics:
+  - Economy
+- key: Climate Indices
+  topics:
+  - Environment
+- key: 'Economic Policy & Debt: Balance of payments: Current account: Balances'
+  topics:
+  - Economy
+- key: Climatology
+  topics:
+  - Environment
+- key: ''
+  topics:
+  - Farming
+- key: Inland Waters
+  topics:
+  - Environment
+- key: Contratos
+  topics:
+  - Economy
+- key: "Licita\xE7\xF5es"
+  topics:
+  - Economy
+- key: 'Labor & Social Protection: Economic activity'
+  topics:
+  - Economy
+- key: 'Financial Inclusion : National Strategies'
+  topics:
+  - Economy
+- key: Budget Vote Documents
   topics:
   - Economy
 - key: Transporte
   topics:
   - Transportation
-- key: "\u0414\u0430\u043D\u043D\u044B\u0435 \u0441\u0438\u0441\u0442\u0435\u043C\u044B
-    \u0415\u0421\u0418\u041C\u041E"
+- key: Observed Sea Surface Temperature From CMEMS
   topics:
+  - Climatology / Meteorology / Atmosphere
   - Oceans
-- key: Transport and Communications
-  topics:
-  - Transportation
-- key: Population and society
-  topics:
-  - Society
-- key: "Am\xE9nagement du territoire, Urbanisme, B\xE2timents, \xC9quipements, Logement"
-  topics:
-  - Planning / Cadastre
-- key: "\u0E2A\u0E32\u0E02\u0E32\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E41\u0E25\u0E30\u0E2A\u0E34\u0E48\u0E07\u0E41\u0E27\u0E14\u0E25\u0E49\u0E2D\u0E21"
-  topics:
-  - Environment
-- key: "\u0627\u0644\u0632\u0631\u0627\u0639\u0629"
-  topics:
-  - Farming
-- key: Trade (internal and external)
-  topics:
-  - Economy
-- key: Transportation
-  topics:
-  - Transportation
-- key: Environment
-  topics:
-  - Environment
-- key: Economy
-  topics:
-  - Economy
-- key: prospection
-  topics:
-  - Geoscientific Information
-- key: geoscientificinformation
-  topics:
-  - Geoscientific Information
-- key: Biota
-  topics:
-  - Biota
-- key: Agricoltura, pesca, silvicoltura e prodotti alimentari
-  topics:
-  - Farming
-- key: Transport
-  topics:
-  - Transportation
-- key: Property and Planning
-  topics:
-  - Planning / Cadastre
-- key: "Econom\xEDa y finanzas"
-  topics:
-  - Economy
-- key: Aqua
-  topics:
-  - Inland Waters
-  - Oceans
-- key: Fiscal Openness
-  topics:
-  - Economy
-- key: "Environnement, ressources naturelles et \xE9nergie"
-  topics:
-  - Environment
-- key: Territoire
-  topics:
-  - Planning / Cadastre
-- key: Finance
-  topics:
-  - Economy
-- key: Territorio
-  topics:
-  - Planning / Cadastre
-- key: Services, Social
-  topics:
-  - Society
-- key: Sociedad y bienestar
-  topics:
-  - Society
-- key: Environnement et climat
-  topics:
-  - Environment
-- key: oceans
-  topics:
-  - Environment
-- key: engineeringGeology
-  topics:
-  - Geoscientific Information
-- key: Oceans
-  topics:
-  - Oceans
-- key: Health
+- key: "Salud y Protecci\xF3n Social"
   topics:
   - Health
-- key: Health and Human Services
-  topics:
-  - Health
-- key: Ambiente
-  topics:
-  - Environment
-- key: Economy, Business, SME, Economic development, Employment
-  topics:
-  - Economy
-- key: Finance
-  topics:
-  - Economy
-- key: Maps and geospatial
-  topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Terra
-  topics:
-  - Planning / Cadastre
-- key: Gouvernement et finances
-  topics:
-  - Economy
-- key: Environment
-  topics:
-  - Environment
-- key: 'International Trade '
-  topics:
-  - Economy
-- key: Surveys
+- key: 'Gender: Participation & access'
   topics:
   - Society
-- key: Business
-  topics:
-  - Economy
-- key: Transportation
-  topics:
-  - Transportation
-- key: Territory and environment
-  topics:
-  - Planning / Cadastre
-- key: Water, energy, resources, environment and science
-  topics:
-  - Environment
-- key: Government and Taxes
-  topics:
-  - Economy
-- key: "Mobilit\xE9"
-  topics:
-  - Transportation
-- key: "D\xE9placements - transports"
-  topics:
-  - Transportation
-- key: "Demograf\xEDa"
-  topics:
-  - Society
-- key: Population and Housing
-  topics:
-  - Society
-- key: mineralResources
-  topics:
-  - Geoscientific Information
-- key: Social Services
-  topics:
-  - Society
-- key: "Mobilit\xE0 e trasporti"
-  topics:
-  - Transportation
 - key: Ordenamiento Territorial
   topics:
   - Planning / Cadastre
-- key: 'Agriculture and Allied Activities '
+- key: Social Services
+  topics:
+  - Society
+- key: "\u0E2A\u0E32\u0E02\u0E32\u0E40\u0E01\u0E29\u0E15\u0E23\u0E41\u0E25\u0E30\u0E1B\u0E23\u0E30\u0E21\u0E07"
   topics:
   - Farming
-- key: Government & Finance
+- key: "{\"de\": \"Gesundheit\", \"en\": \"Health\", \"fr\": \"Sant\xE9\", \"it\":
+    \"Salute\"}"
+  topics:
+  - Health
+- key: Agriculture
+  topics:
+  - Farming
+- key: 'Financial Consumer Protection : Internal Dispute Resolution'
+  topics:
+  - Economy
+- key: "\u74B0\u5883"
+  topics:
+  - Environment
+- key: Agricultural census 2001
+  topics:
+  - Farming
+- key: "Agriculture, Ressources Hydrauliques et P\xEAche Maritime"
+  topics:
+  - Farming
+- key: Health and Human Services
+  topics:
+  - Health
+- key: 'Financial Consumer Protection : Enforcement Powers'
+  topics:
+  - Economy
+- key: 'Financial Inclusion : Financial Institutions'
+  topics:
+  - Economy
+- key: 'Financial Consumer Protection : Legal Framework'
+  topics:
+  - Economy
+- key: 'Financial Inclusion : Account Costs'
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: National accounts: Local currency at constant prices:
+    Other items'
+  topics:
+  - Economy
+- key: Agriculture and Fishing
+  topics:
+  - Farming
+- key: Economy and finance
+  topics:
+  - Economy
+- key: Observed Ocean Color From CMEMS
+  topics:
+  - Oceans
+- key: Temperature
+  topics:
+  - Environment
+- key: Economic Accounts
+  topics:
+  - Economy
+- key: Ekonomi
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: External debt: Terms'
   topics:
   - Economy
 - key: Trasporti
   topics:
   - Transportation
-- key: Mobility and Transport
+- key: Poverty Rates
   topics:
-  - Transportation
-- key: Energy and Environment
+  - Economy
+- key: Energy & Environment
   topics:
   - Environment
-- key: Biota
+- key: Housing & Properties
   topics:
-  - Biota
-- key: ClimatologyMeteorologyAtmosphere
+  - Planning / Cadastre
+- key: 'Financial Inclusion : Credit Infrastructure'
   topics:
-  - Climatology / Meteorology / Atmosphere
-- key: "Soc.Demogr\xE1fico"
+  - Economy
+- key: intelligenceMilitary
+  topics:
+  - Intelligence / Military
+- key: Survey of Health, Ageing and Retirement in Europe (SHARE)
+  topics:
+  - Health
+- key: 'Economic Policy & Debt: External debt: Currency composition'
+  topics:
+  - Economy
+- key: Adjusted Budget Vote Documents
+  topics:
+  - Economy
+- key: Population and Housing Census
   topics:
   - Society
-- key: Economic Sector
-  topics:
-  - Economy
-- key: Economia
-  topics:
-  - Economy
-- key: Instrumentos e Projetos Territoriais
-  topics:
-  - Planning / Cadastre
-- key: "Am\xE9nagement du territoire, Urbanisme, B\xE2timents, Equipements, Logement"
-  topics:
-  - Planning / Cadastre
-- key: BUDGET DE L'ETAT
-  topics:
-  - Economy
-- key: Vehicle Speed
-  topics:
-  - Transportation
-- key: GeoscientificInformation
-  topics:
-  - Geoscientific Information
-- key: "Am\xE9nagement du territoire"
-  topics:
-  - Planning / Cadastre
-- key: Labor Market
-  topics:
-  - Economy
-- key: Census
-  topics:
-  - Society
-- key: economia
-  topics:
-  - Economy
-- key: Demographics
-  topics:
-  - Society
-- key: Territoires
-  topics:
-  - Planning / Cadastre
-- key: Economie
-  topics:
-  - Economy
-- key: land use and development
-  topics:
-  - Planning / Cadastre
-- key: Medio Ambiente
+- key: Precipitation
   topics:
   - Environment
-- key: geophysics
-  topics:
-  - Geoscientific Information
-- key: Planning & Development
-  topics:
-  - Planning / Cadastre
-- key: Meteo
+- key: Environnement
   topics:
   - Environment
-- key: Radiation
+- key: 'Poverty: Conflict & fragility'
   topics:
-  - Environment
-- key: Population
-  topics:
-  - Society
-- key: Agriculture
-  topics:
-  - Farming
-- key: "Transports, D\xE9placements, Mobilit\xE9"
-  topics:
-  - Transportation
-- key: "\xC9conomie, Business, PME, D\xE9veloppement \xE9conomique, Emploi"
+  - Economy
+- key: Business
   topics:
   - Economy
 - key: Housing
   topics:
   - Structure
   - Planning / Cadastre
-- key: Communications
+- key: Access to Financial Services
   topics:
-  - Utilities / Communication
+  - Economy
+- key: "Econom\xEDa y finanzas"
+  topics:
+  - Economy
+- key: Demographics
+  topics:
+  - Society
+- key: 'Financial Inclusion : Policies'
+  topics:
+  - Economy
+- key: 'Environment: Emissions & pollution'
+  topics:
+  - Environment
+- key: Transport and Communications
+  topics:
+  - Transportation
+- key: population
+  topics:
+  - Society
+- key: "16) \u0E40\u0E28\u0E23\u0E29\u0E10\u0E01\u0E34\u0E08\u0E10\u0E32\u0E19\u0E23\u0E32\u0E01"
+  topics:
+  - Economy
+- key: Environnement et climat
+  topics:
+  - Environment
+- key: Census
+  topics:
+  - Society
+- key: Economia e finanze
+  topics:
+  - Economy
+- key: Education and Training
+  topics:
+  - Society
+- key: "\u0414\u0430\u043D\u043D\u044B\u0435 \u0441\u0438\u0441\u0442\u0435\u043C\u044B
+    \u0415\u0421\u0418\u041C\u041E"
+  topics:
+  - Oceans
+- key: "Econom\xEDa y Finanzas"
+  topics:
+  - Economy
+- key: Environment, land and water
+  topics:
+  - Environment
+- key: Population and society
+  topics:
+  - Society
+- key: "\u0E2A\u0E32\u0E02\u0E32\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E41\u0E25\u0E30\u0E2A\u0E34\u0E48\u0E07\u0E41\u0E27\u0E14\u0E25\u0E49\u0E2D\u0E21"
+  topics:
+  - Environment
+- key: Trade (internal and external)
+  topics:
+  - Economy
+- key: Census 2011
+  topics:
+  - Society
+- key: Biota
+  topics:
+  - Biota
+- key: 'Gender: Agency'
+  topics:
+  - Society
+- key: 'Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita'
+  topics:
+  - Economy
+- key: "\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E41\u0E25\u0E30\u0E2A\u0E34\u0E48\u0E07\u0E41\u0E27\u0E14\u0E25\u0E49\u0E2D\u0E21"
+  topics:
+  - Environment
+- key: Medio Ambiente
+  topics:
+  - Environment
+- key: Business and Economy
+  topics:
+  - Economy
+- key: Population and Housing Census 2011
+  topics:
+  - Society
+- key: Public finances
+  topics:
+  - Economy
+- key: 'Financial Consumer Protection : Responsible Lending'
+  topics:
+  - Economy
+- key: Income Inequality
+  topics:
+  - Economy
+- key: Mean Sea Level Pressure Forecast
+  topics:
+  - Climatology / Meteorology / Atmosphere
+  - Oceans
+- key: 'Environment: Natural capital endowment and management'
+  topics:
+  - Environment
+- key: Recreation
+  topics:
+  - Health
+- key: 'Economic Policy & Debt: External debt: Commitments'
+  topics:
+  - Economy
+- key: "Environnement, ressources naturelles et \xE9nergie"
+  topics:
+  - Environment
+- key: Census population
+  topics:
+  - Society
+- key: Agricultural Census 2001. Discontinued datasets
+  topics:
+  - Farming
+- key: Salute
+  topics:
+  - Health
+- key: Fiscal Openness
+  topics:
+  - Economy
+- key: Health and wellbeing
+  topics:
+  - Health
+- key: I Economically active agricultural holdings
+  topics:
+  - Economy
+- key: Economy and Demographics
+  topics:
+  - Economy
+- key: Agricultura y Desarrollo Rural
+  topics:
+  - Farming
 - key: GIS/Maps
   topics:
   - Imagery / Base Maps / Earth Cover
-- key: Housing & Development
+- key: "\u4EBA\u53E3\u6E1B\u5C11\u30FB\u5C11\u5B50\u9AD8\u9F62\u5316"
   topics:
-  - Structure
-- key: "\u4EA4\u901A"
+  - Society
+- key: Health and welfare
+  topics:
+  - Health
+- key: Instrumentos e Projetos Territoriais
+  topics:
+  - Planning / Cadastre
+- key: 'Financial Inclusion : Microfinance Definitions'
+  topics:
+  - Economy
+- key: Boundaries
+  topics:
+  - Boundaries
+- key: Population and Housing
+  topics:
+  - Society
+- key: Government and Taxes
+  topics:
+  - Economy
+- key: Gouvernement et finances
+  topics:
+  - Economy
+- key: Industry
+  topics:
+  - Economy
+- key: Maps and geospatial
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Health & Human Services
+  topics:
+  - Health
+- key: Surveys
+  topics:
+  - Society
+- key: Territorio
+  topics:
+  - Planning / Cadastre
+- key: Water, energy, resources, environment and science
+  topics:
+  - Environment
+- key: Transportation and Mobility
+  topics:
+  - Transportation
+- key: water
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Economia e finanza
+  topics:
+  - Economy
+- key: Economia
+  topics:
+  - Economy
+- key: Information Society
+  topics:
+  - Society
+- key: Employment service statistics (Ministry of Economic Affairs and Employment)
+  topics:
+  - Economy
+- key: Industria
+  topics:
+  - Economy
+- key: 'Health: Health services'
+  topics:
+  - Health
+- key: Imagerie et occupation du sol
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Economic Policy & Debt
+  topics:
+  - Economy
+- key: "Mobilit\xE0 e trasporti"
   topics:
   - Transportation
 - key: Mobility
   topics:
   - Transportation
-- key: "\u4EBA\u53E3\u6E1B\u5C11\u30FB\u5C11\u5B50\u9AD8\u9F62\u5316"
+- key: Government & Finance
+  topics:
+  - Economy
+- key: "2. Individual taxpayers \u2014 Statistics on income taxation"
+  topics:
+  - Economy
+- key: Agriculture and Allied Activities
+  topics:
+  - Farming
+- key: "Limites administratives et r\xE9f\xE9rentiels"
+  topics:
+  - Boundaries
+- key: 'Census 2011
+
+    '
   topics:
   - Society
-- key: "\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E41\u0E25\u0E30\u0E2A\u0E34\u0E48\u0E07\u0E41\u0E27\u0E14\u0E25\u0E49\u0E2D\u0E21"
+- key: COVID-19
   topics:
-  - Environment
-- key: "Territoires et r\xE9gions"
+  - Health
+- key: Aid Effectiveness in the Education Sector
   topics:
-  - Planning / Cadastre
-- key: Administration & Finance
+  - Society
+- key: Medicare
   topics:
-  - Economy
-- key: Weather Conditions
-  topics:
-  - Environment
-- key: Finanzas
+  - Health
+- key: Budget and Finance
   topics:
   - Economy
-- key: Business and Economy
+- key: "Poblaci\xF3n y sociedad"
   topics:
-  - Economy
-- key: Cadre de vie - environnement
+  - Society
+- key: Energy and Environment
   topics:
   - Environment
-- key: Territoires, Agriculture et Innovations
+- key: 'Public Sector: Government finance'
   topics:
-  - Farming
-- key: Food, Civil Supplies and Co-operation
+  - Economy
+- key: "Soc.Demogr\xE1fico"
   topics:
-  - Farming
-- key: Business
+  - Society
+- key: Economic Sector
+  topics:
+  - Economy
+- key: BUDGET DE L'ETAT
+  topics:
+  - Economy
+- key: Transport und Verkehr
+  topics:
+  - Transportation
+- key: "Mobilit\xE9 et transports"
+  topics:
+  - Transportation
+- key: Social security and health
+  topics:
+  - Health
+- key: 'Financial Inclusion : Surveys'
   topics:
   - Economy
 - key: Economic Development
   topics:
   - Economy
-- key: "Mobilit\xE9 et transports"
-  topics:
-  - Transportation
-- key: "Governo e Finan\xE7as P\xFAblicas"
-  topics:
-  - Economy
-- key: Natural Resources & Environment
-  topics:
-  - Environment
-- key: "Econom\xEDa y Finanzas"
-  topics:
-  - Economy
-- key: Housing, land, planning and infrastructure
-  topics:
-  - Planning / Cadastre
-- key: Environnement, Cadre de vie
-  topics:
-  - Environment
-- key: Sociedad
-  topics:
-  - Society
-- key: Infrastrutture e trasporti
-  topics:
-  - Transportation
-- key: Health & Human Services
-  topics:
-  - Health
-- key: Recreation
-  topics:
-  - Health
-- key: Health & Public Safety
-  topics:
-  - Health
-- key: "Limites administratives et r\xE9f\xE9rentiels"
-  topics:
-  - Boundaries
-- key: Family & Health
-  topics:
-  - Health
-- key: "Agroganader\xEDa, pesca y forestaci\xF3n"
+- key: Agricultural statistics
   topics:
   - Farming
-- key: Health Sciences
+- key: Housing & Development
+  topics:
+  - Structure
+- key: Vehicle Speed
+  topics:
+  - Transportation
+- key: 'Economic Policy & Debt: National accounts: US$ at constant 2000 prices: Expenditure
+    on GDP'
+  topics:
+  - Economy
+- key: Population Census
+  topics:
+  - Society
+- key: Planning Policy
+  topics:
+  - Planning / Cadastre
+- key: Population and Housing Census 2000
+  topics:
+  - Society
+- key: Public Transport
+  topics:
+  - Transportation
+- key: Labor Market
+  topics:
+  - Economy
+- key: Transportasi
+  topics:
+  - Transportation
+- key: "Educa\xE7\xE3o"
+  topics:
+  - Society
+- key: Healthcare
   topics:
   - Health
-- key: "\u5065\u5EB7/\u7167\u8B77/\u793E\u798F"
+- key: Transport and motoring
+  topics:
+  - Transportation
+- key: Education, culture and science
+  topics:
+  - Society
+- key: land use and development
+  topics:
+  - Planning / Cadastre
+- key: Communications
+  topics:
+  - Utilities / Communication
+- key: Planning
+  topics:
+  - Planning / Cadastre
+- key: "\u4EA4\u901A"
+  topics:
+  - Transportation
+- key: Estonian community based study about health determinants
+  topics:
+  - Health
+- key: Planning & Development
+  topics:
+  - Planning / Cadastre
+- key: 'zzz DISCONTINUED - Taxable incomes
+
+
+    '
+  topics:
+  - Economy
+- key: Radiation
+  topics:
+  - Environment
+- key: Environmental Data
+  topics:
+  - Environment
+- key: Education, Formation, Recherche, Enseignement
+  topics:
+  - Society
+- key: Household disposable income
+  topics:
+  - Economy
+- key: 'Economic Policy & Debt: External debt: Undisbursed debt'
+  topics:
+  - Economy
+- key: Financial
+  topics:
+  - Economy
+- key: Administration & Finance
+  topics:
+  - Economy
+- key: "Transports, D\xE9placements"
+  topics:
+  - Transportation
+- key: Older Adults Health Data Collection
   topics:
   - Health
 - key: Demography
   topics:
   - Society
-- key: "Economie, Business, PME, D\xE9veloppement \xE9conomique, Emploi"
+- key: Health Care
   topics:
-  - Economy
-- key: "Donn\xE9es territoriales"
-  topics:
-  - Planning / Cadastre
-- key: nonMetallicMinerals
-  topics:
-  - Geoscientific Information
-- key: gold
-  topics:
-  - Geoscientific Information
-- key: Economy and Planning
-  topics:
-  - Economy
-- key: Community & Economic Development
-  topics:
-  - Economy
-- key: Land Cover
+  - Health
+- key: Property and Planning
   topics:
   - Planning / Cadastre
-- key: Imagerie et occupation du sol
+- key: Weather Conditions
   topics:
-  - Imagery / Base Maps / Earth Cover
-- key: "Soci\xE9t\xE9 et culture"
+  - Environment
+- key: Domestic Financing
   topics:
-  - Society
+  - Economy
+- key: "Mobilit\xE9"
+  topics:
+  - Transportation
+- key: salud
+  topics:
+  - Health
+- key: Food, Civil Supplies and Co-operation
+  topics:
+  - Farming
+- key: 'Economic Policy & Debt: National accounts: US$ at constant 2000 prices: Aggregate
+    indicators'
+  topics:
+  - Economy
 - key: Social
   topics:
   - Society
-- key: Transport
-  topics:
-  - Transportation
-- key: Economia e finanza
-  topics:
-  - Economy
-- key: Society
+- key: Education and Science
   topics:
   - Society
-- key: Community
+- key: Education and learning
   topics:
   - Society
-- key: Meio Ambiente
+- key: Health and Community Services
   topics:
-  - Environment
-- key: Finances
-  topics:
-  - Economy
-- key: Climate
-  topics:
-  - Environment
-- key: Trade
-  topics:
-  - Economy
-- key: Irrigation and Water Resources
-  topics:
-  - Farming
-- key: Inland Waters
-  topics:
-  - Environment
-- key: Finances
-  topics:
-  - Economy
-- key: Prices and Indices
-  topics:
-  - Economy
-- key: Economy
-  topics:
-  - Economy
-- key: Water
-  topics:
-  - Environment
-- key: Demographics
+  - Health
+- key: Population and its characteristics
   topics:
   - Society
 - key: Hydrology
   topics:
   - Inland Waters
   - Oceans
-- key: Imagery
+- key: Fisheries
   topics:
-  - Imagery / Base Maps / Earth Cover
-- key: Equipements, Services, Social
+  - Farming
+- key: Housing, land, planning and infrastructure
+  topics:
+  - Planning / Cadastre
+- key: Agricultural census 2020
+  topics:
+  - Farming
+- key: Individual Transport
+  topics:
+  - Transportation
+- key: Agricultural census 2010
+  topics:
+  - Farming
+- key: Health Sciences
+  topics:
+  - Health
+- key: Infrastrutture e trasporti
+  topics:
+  - Transportation
+- key: Economy and Planning
+  topics:
+  - Economy
+- key: Public Health Surveillance
+  topics:
+  - Health
+- key: Macroeconomic forecasts
+  topics:
+  - Economy
+- key: Agriculture. Archive
+  topics:
+  - Farming
+- key: environnement-et-climat
+  topics:
+  - Environment
+- key: Population structure
   topics:
   - Society
+- key: Health & Public Safety
+  topics:
+  - Health
+- key: "Agriculture, sylviculture et p\xEAche"
+  topics:
+  - Farming
+- key: "Agroganader\xEDa, pesca y forestaci\xF3n"
+  topics:
+  - Farming
+- key: Poverty and inequality (EU-SILC)
+  topics:
+  - Economy
 - key: Economie et entreprises
+  topics:
+  - Economy
+- key: Community & Economic Development
+  topics:
+  - Economy
+- key: Gender and Special Population Groups
+  topics:
+  - Society
+- key: "Department of Planning and Environment\u2014Water"
+  topics:
+  - Inland Waters
+  - Oceans
+- key: "\u5065\u5EB7/\u7167\u8B77/\u793E\u798F"
+  topics:
+  - Health
+- key: Land Cover
+  topics:
+  - Planning / Cadastre
+- key: "D\xE9placements - transports"
+  topics:
+  - Transportation
+- key: Life Science
+  topics:
+  - Health
+- key: "Soci\xE9t\xE9 et culture"
+  topics:
+  - Society
+- key: The national public health survey, national and regional results
+  topics:
+  - Health
+- key: Prices and Indices
+  topics:
+  - Economy
+- key: Money and Finance
+  topics:
+  - Economy
+- key: Natural Resources & Environment
+  topics:
+  - Environment
+- key: Poverty
+  topics:
+  - Society
+- key: Budgets for Justice
   topics:
   - Economy
 - key: "Ekonomika un uz\u0146\u0113m\u0113jdarb\u012Bba"
   topics:
   - Economy
-- key: "Popolazione e societ\xE0"
+- key: Health care resources and their use
+  topics:
+  - Health
+- key: Union Budget
+  topics:
+  - Economy
+- key: Economic Growth
+  topics:
+  - Economy
+- key: Population and Housing Census 2021
   topics:
   - Society
+- key: Finances
+  topics:
+  - Economy
+- key: V Labour force in agriculture
+  topics:
+  - Farming
+- key: Public finance
+  topics:
+  - Economy
+- key: Fisheries and Oceans Canada
+  topics:
+  - Oceans
+- key: Irrigation and Water Resources
+  topics:
+  - Farming
+- key: "Am\xE9nagement du territoire, Urbanisme, B\xE2timents, Equipements, Logement"
+  topics:
+  - Planning / Cadastre
 - key: Life Sciences
   topics:
   - Health
-- key: Industry
+- key: 06. Income, deductions and taxes by regions (Persons with unlimited tax liability)
   topics:
   - Economy
-- key: "Citoyennet\xE9 , D\xE9mocratie"
+- key: Income distribution statistics
+  topics:
+  - Economy
+- key: Censuses
   topics:
   - Society
-- key: Humidity
+- key: Estonian Health Interview Survey
   topics:
-  - Climatology / Meteorology / Atmosphere
+  - Health
+- key: economia-y-finanzas
+  topics:
+  - Economy
+- key: Economia e Sociedade
+  topics:
+  - Economy
 - key: Imagery + Basemaps
   topics:
   - Imagery / Base Maps / Earth Cover
-- key: Medicare
+- key: Income
+  topics:
+  - Economy
+- key: 'Structure of agricultural holdings (1998 and 2008 methodology) '
+  topics:
+  - Farming
+- key: Agricoltura, pesca, silvicoltura e prodotti alimentari
+  topics:
+  - Farming
+- key: Freshwater
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Socioeconomical background
+  topics:
+  - Economy
+- key: Humidity
+  topics:
+  - Climatology / Meteorology / Atmosphere
+- key: Health status
   topics:
   - Health
-- key: Business & Economics
+- key: 1. Data on finances reported by municipalities 2015-2020
   topics:
   - Economy
 - key: Environment and Forests
   topics:
   - Environment
   - Farming
+- key: Environmental
+  topics:
+  - Environment
+- key: Sociedad y Bienestar
+  topics:
+  - Society
+- key: Agricultural machinery and equipment
+  topics:
+  - Farming
 - key: Climate Change Adaptation
   topics:
   - Environment
-- key: Transport, Movements
+- key: "Am\xE9nagement du territoire"
   topics:
-  - Transportation
-- key: Health Facilities
+  - Planning / Cadastre
+- key: Agriculture, Forestry, Fisheries
   topics:
-  - Health
-- key: 'National Accounts '
+  - Farming
+- key: Population & society
   topics:
-  - Economy
+  - Society
 - key: Demographie
   topics:
   - Society
-- key: Societate
+- key: ods-08-trabajo-decente-y-crecimiento-economico
   topics:
-  - Society
-- key: Landscape Dynamics
-  topics:
-  - Planning / Cadastre
+  - Economy
 - key: Land Use & Development
   topics:
   - Planning / Cadastre
-- key: Vegetation
+- key: Education & Technical Development
   topics:
-  - Farming
-- key: Transporte
+  - Society
+- key: Environment and NRM
   topics:
-  - Transportation
-- key: Industria
+  - Environment
+- key: Landscape Dynamics
+  topics:
+  - Planning / Cadastre
+- key: Societate
+  topics:
+  - Society
+- key: Societal Debates and Misinformation
+  topics:
+  - Society
+- key: economia
   topics:
   - Economy
-- key: Trade
+- key: "Educa\u021Bie"
   topics:
-  - Economy
+  - Society
+- key: "Educaci\xF3n, cultura y deportes"
+  topics:
+  - Society
+- key: Population, Statistiques
+  topics:
+  - Society
+- key: Services, Social
+  topics:
+  - Society
 - key: Agropecuario y Pesca
   topics:
   - Farming
-- key: Geographic Locations and Boundaries
-  topics:
-  - Boundaries
-- key: Business and Economy
+- key: 2. Data on finances reported by joint municipal authorities 2015-2020
   topics:
   - Economy
-- key: Klimatologi
+- key: Business & Economy
   topics:
-  - Climatology / Meteorology / Atmosphere
-- key: Health and wellbeing
+  - Economy
+- key: 'Education
+
+    '
+  topics:
+  - Society
+- key: Health Statistics
   topics:
   - Health
 - key: Land Monitor
   topics:
   - Planning / Cadastre
-- key: Health outcome
-  topics:
-  - Health
-- key: "D\xE9veloppement \xE9conomique"
-  topics:
-  - Economy
 - key: vegetation/ecology
   topics:
   - Environment
-- key: Wildlife
+- key: economia-y-hacienda
   topics:
-  - Biota
-- key: Salud y Protección Social
+  - Economy
+- key: "Econom\xEDa y Hacienda"
+  topics:
+  - Economy
+- key: "Economie \u0219i Sectorul Privat"
+  topics:
+  - Economy
+- key: Societat-benestar
+  topics:
+  - Society
+- key: Agriculture census 2014
+  topics:
+  - Farming
+- key: Statistics for university education
+  topics:
+  - Society
+- key: Economie et Finance
+  topics:
+  - Economy
+- key: Public Health Outcomes Framework
   topics:
   - Health
+- key: Income and Consumption
+  topics:
+  - Economy
+- key: Planning + Cadastre
+  topics:
+  - Planning / Cadastre
+- key: Agriculture, Livestock & Fisheries
+  topics:
+  - Farming
+- key: Revenue & Expense
+  topics:
+  - Economy
+- key: Finance Management
+  topics:
+  - Economy
+- key: Health Behaviour in School-aged Children (HBSC)
+  topics:
+  - Health
+- key: agriculture-sylviculture-et-viticulture
+  topics:
+  - Farming
+- key: Health and Wellness
+  topics:
+  - Health
+- key: Transportation/Transit
+  topics:
+  - Transportation
+- key: Water Quantity
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Cadre de vie - environnement
+  topics:
+  - Environment
+- key: Education, skills and learning
+  topics:
+  - Society
+- key: Banking and Finance
+  topics:
+  - Economy
+- key: "Territoires et r\xE9gions"
+  topics:
+  - Planning / Cadastre
+- key: Freight transport
+  topics:
+  - Transportation
+- key: agricultura-y-alimentacion
+  topics:
+  - Farming
+- key: Business and economic
+  topics:
+  - Economy
+- key: Territoires, Agriculture et Innovations
+  topics:
+  - Farming
+- key: Structures / Infrastructure agricole
+  topics:
+  - Farming
+- key: Population. Archive
+  topics:
+  - Society
+- key: Financial statistics of enterprises. Archive
+  topics:
+  - Economy
+- key: Economic activity, sources of subsistence and work migration of population
+  topics:
+  - Economy
+- key: Child Poverty Indicators
+  topics:
+  - Economy
+- key: Agriculture, Environnement
+  topics:
+  - Farming
+- key: Demographic and ethno-cultural characteristics of the population
+  topics:
+  - Society
+- key: 'Population and Gender
+
+    '
+  topics:
+  - Society
+- key: Lands, Forests and Wildlife
+  topics:
+  - Biota
+- key: "Administraci\xF3n, gobierno, finanzas p\xFAblicas y ciudadan\xEDa"
+  topics:
+  - Economy
+- key: Financial Sector
+  topics:
+  - Economy
+- key: Budget et Subvention
+  topics:
+  - Economy
+- key: Sociedade
+  topics:
+  - Society
+- key: Economie
+  topics:
+  - Economy
+- key: Redes de Transporte
+  topics:
+  - Transportation
+- key: Environment and Energy
+  topics:
+  - Environment
+- key: Economia e Finanze
+  topics:
+  - Economy
+- key: ods-04-educacion-de-calidad
+  topics:
+  - Society
+- key: Census 2021
+  topics:
+  - Society
+- key: Special Education
+  topics:
+  - Society
+- key: Economic units. Archive
+  topics:
+  - Economy
+- key: Use of health care and social services
+  topics:
+  - Health
+- key: Finanzen
+  topics:
+  - Economy
+- key: Budget
+  topics:
+  - Economy
+- key: Use of healthcare and reasons for treatment
+  topics:
+  - Health
+- key: Economic Statistics
+  topics:
+  - Economy
+- key: Public Health
+  topics:
+  - Health
+- key: Fishery and game statistics
+  topics:
+  - Farming
+- key: Arts
+  topics:
+  - Society
+- key: POPULATION DATA
+  topics:
+  - Society
+- key: Structural business and financial statement statistics
+  topics:
+  - Economy
+- key: Mobility and Transport
+  topics:
+  - Transportation
+- key: Transport. Archive
+  topics:
+  - Transportation
+- key: Transportation and Infrastructure
+  topics:
+  - Transportation
+- key: Pertanian
+  topics:
+  - Farming
+- key: Transport Terrestre
+  topics:
+  - Transportation
+- key: mobilite-et-transports
+  topics:
+  - Transportation
+- key: Wages and income
+  topics:
+  - Economy
+- key: "Denar in monetarne finan\u010Dne institucije\n"
+  topics:
+  - Economy
+- key: Environmental Health & Toxicology
+  topics:
+  - Health
+- key: European Health Interview Survey
+  topics:
+  - Health
+- key: Finance and Banking
+  topics:
+  - Economy
+- key: Census population 1948-2011
+  topics:
+  - Society
+- key: "Transports, D\xE9placements, Mobilit\xE9"
+  topics:
+  - Transportation
+- key: Swedish Economy, March 2021
+  topics:
+  - Economy
+- key: Swedish Economy, March 2019
+  topics:
+  - Economy
+- key: "Educaci\xF3"
+  topics:
+  - Society
+- key: Roads & Transportation
+  topics:
+  - Transportation
+- key: Swedish Economy, October 2019
+  topics:
+  - Economy
+- key: "Poblaci\xF3n y Sociedad"
+  topics:
+  - Society
+- key: Equipements, Services, Social
+  topics:
+  - Society
+- key: Swedish Economy, December 2023
+  topics:
+  - Economy
+- key: Swedish Economy, April 2020
+  topics:
+  - Economy
+- key: Business & Economics
+  topics:
+  - Economy
+- key: Swedish Economy, December 2019
+  topics:
+  - Economy
+- key: Swedish Economy, September 2020
+  topics:
+  - Economy
+- key: Swedish Economy, June 2020
+  topics:
+  - Economy
+- key: Swedish Economy, December 2021
+  topics:
+  - Economy
+- key: Swedish Economy, December 2020
+  topics:
+  - Economy
+- key: Swedish Economy, June 2019
+  topics:
+  - Economy
+- key: Fiscal, tax and economics
+  topics:
+  - Economy
+- key: Swedish Economy, Mars 2023
+  topics:
+  - Economy
+- key: Use of health services
+  topics:
+  - Health
+- key: Swedish Economy, September 2023
+  topics:
+  - Economy
+- key: Swedish Economy, June 2023
+  topics:
+  - Economy
+- key: Population in Greenland
+  topics:
+  - Society
+- key: Swedish Economy, September 2021
+  topics:
+  - Economy
+- key: Swedish Economy, June 2021
+  topics:
+  - Economy
+- key: Swedish Economy, December 2018
+  topics:
+  - Economy
+- key: Swedish Economy, December 2022
+  topics:
+  - Economy
+- key: Swedish Economy, June 2018
+  topics:
+  - Economy
+- key: Economy, Business, SME, Economic development, Employment
+  topics:
+  - Economy
+- key: Swedish Economy, June 2022
+  topics:
+  - Economy
+- key: Swedish Economy, October 2018
+  topics:
+  - Economy
+- key: Transport, travel and motoring
+  topics:
+  - Transportation
+- key: Swedish Economy, September 2022
+  topics:
+  - Economy
+- key: Swedish Economy, March 2022
+  topics:
+  - Economy
+- key: Swedish Economy, December 2017
+  topics:
+  - Economy
+- key: Population and Communities
+  topics:
+  - Society
+- key: "Societ\xE0"
+  topics:
+  - Society
+- key: Swedish Economy, December 2015
+  topics:
+  - Economy
+- key: "Economie, Business, PME, D\xE9veloppement \xE9conomique, Emploi"
+  topics:
+  - Economy
+- key: Swedish Economy, June 2016
+  topics:
+  - Economy
+- key: 'Population and elections
+
+    '
+  topics:
+  - Society
+- key: Swedish Economy, March 2016
+  topics:
+  - Economy
+- key: "Finan\u021Be \u0219i Buget"
+  topics:
+  - Economy
+- key: Swedish Economy, June 2017
+  topics:
+  - Economy
+- key: VI Agricultural production methods
+  topics:
+  - Farming
+- key: Swedish Economy, October 2017
+  topics:
+  - Economy
+- key: Swedish Economy, March 2017
+  topics:
+  - Economy
+- key: Swedish Econonmy, March 2018
+  topics:
+  - Economy
+- key: Swedish Economy, August 2016
+  topics:
+  - Economy
+- key: Swedish Economy, December 2016
+  topics:
+  - Economy
+- key: Aquaculture & Fisheries
+  topics:
+  - Farming
+- key: Sociedad
+  topics:
+  - Society
+- key: Budget and Government Spending
+  topics:
+  - Economy
+- key: Census 1981
+  topics:
+  - Society
+- key: Population and Demographics
+  topics:
+  - Society
+- key: Governor's Executive Budget Program Measures
+  topics:
+  - Economy
+- key: Mental health
+  topics:
+  - Health
+- key: Gender and Development
+  topics:
+  - Society
+- key: Tertiary Education
+  topics:
+  - Society
+- key: Public Education
+  topics:
+  - Society
+- key: Mobility and transport
+  topics:
+  - Transportation
+- key: educacion
+  topics:
+  - Society
+- key: Water Quality
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Adult Education
+  topics:
+  - Society
+- key: Education Outcome
+  topics:
+  - Society
+- key: "Citoyennet\xE9 , D\xE9mocratie"
+  topics:
+  - Society
+- key: Maritime transport
+  topics:
+  - Transportation
+- key: Agricultural Census, 2007
+  topics:
+  - Farming
+- key: Population Census 2021
+  topics:
+  - Society
+- key: Health status and morbidity
+  topics:
+  - Health
+- key: 'Economic Policy & Debt: National accounts: US$ at constant 2000 prices: Value
+    added'
+  topics:
+  - Economy
+- key: Health Studies
+  topics:
+  - Health
+- key: Tropical Ocean Global Atmosphere Coupled Ocean Atmosphere Response Experiment
+  topics:
+  - Oceans
+- key: Native and immigrant population. Migration
+  topics:
+  - Society
+- key: 'Economic Policy & Debt: National accounts: US$ at constant 2000 prices: Other
+    items'
+  topics:
+  - Economy
+- key: 'BEXST94 - Population structure 1994-2024
+
+    '
+  topics:
+  - Society
+- key: 'Economic Policy & Debt: National accounts: Local currency at current prices:
+    Other items'
+  topics:
+  - Economy
+- key: Michigan Economic Development Corporation
+  topics:
+  - Economy
+- key: Revenue and Taxation
+  topics:
+  - Economy
+- key: Planning &amp; Zoning
+  topics:
+  - Planning / Cadastre
+- key: Fisheries and catch
+  topics:
+  - Farming
+- key: Environment & agriculture
+  topics:
+  - Farming
+- key: budget.gov.ru
+  topics:
+  - Economy
+- key: Section 3. Health and Nutrition
+  topics:
+  - Health
+- key: Environnement, Cadre de vie
+  topics:
+  - Environment
+- key: Driving, transport and travel
+  topics:
+  - Transportation
+- key: Lake Babine Fisheries Collection
+  topics:
+  - Farming
+- key: Population projection
+  topics:
+  - Society
+- key: Active Population
+  topics:
+  - Society
+- key: Agricultural Accounts
+  topics:
+  - Farming
+- key: 'Transport
+
+    '
+  topics:
+  - Transportation
+- key: Health & Wellness
+  topics:
+  - Health
+- key: Information and communications technology (ICT)
+  topics:
+  - Utilities / Communication
+- key: Economy, industry & employment
+  topics:
+  - Economy
+- key: Department of Census and Statistics
+  topics:
+  - Society
+- key: "12. \u793E\u6703\u8207\u793E\u6703\u79D1\u5B78 / Society and social sciences"
+  topics:
+  - Society
+- key: Quarterly Economic Indices (QEI)
+  topics:
+  - Economy
+- key: Health Behavior among Estonian Adult Population Study
+  topics:
+  - Health
+- key: Elevation
+  topics:
+  - Elevation
+- key: Planning - Cadastre
+  topics:
+  - Planning / Cadastre
+- key: "Am\xE9nagement du territoire, Urbanisme, B\xE2timents, \xC9quipements, Logement"
+  topics:
+  - Planning / Cadastre
+- key: Social exclusion and poverty
+  topics:
+  - Economy
+- key: Transporte e infraestrutura
+  topics:
+  - Transportation
+- key: Budget Speeches
+  topics:
+  - Economy
+- key: Transportation Operations
+  topics:
+  - Transportation
+- key: "Transporte y Log\xEDstica"
+  topics:
+  - Transportation
+- key: Finanzas
+  topics:
+  - Economy
+- key: Health and Safety
+  topics:
+  - Health
+- key: Economic Prosperity and Affordability
+  topics:
+  - Economy
+- key: Agricultural household survey
+  topics:
+  - Farming
+- key: Travel and Transport
+  topics:
+  - Transportation
+- key: Total population, households and dwellings
+  topics:
+  - Society
+- key: 'BEXHP94 - Population by householdstatus 1994-2024
+
+    '
+  topics:
+  - Society
+- key: Dept. of Health
+  topics:
+  - Health
+- key: Transportation Assets
+  topics:
+  - Transportation
+- key: "Finan\u0163e \u015Fi Buget"
+  topics:
+  - Economy
+- key: Territoire
+  topics:
+  - Planning / Cadastre
+- key: Socioeconomics
+  topics:
+  - Economy
+- key: Tax and Revenue
+  topics:
+  - Economy
+- key: Census of Agriculture and Fisheries
+  topics:
+  - Farming
+- key: "Routes, Transports et Mobilit\xE9s"
+  topics:
+  - Transportation
+- key: Personal income
+  topics:
+  - Economy
+- key: National Oceanic and Atmospheric Administration
+  topics:
+  - Oceans
+- key: Health Sector
+  topics:
+  - Health
+- key: Administration, Gouvernement, Finances publiques
+  topics:
+  - Economy
+- key: Imagery
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Local Government Finance
+  topics:
+  - Economy
+- key: Societat i benestar
+  topics:
+  - Society
+- key: Streets and transportation
+  topics:
+  - Transportation
+- key: Economic activity and subsistence
+  topics:
+  - Economy
+- key: Philippine National Health Accounts
+  topics:
+  - Health
+- key: Health. Archive
+  topics:
+  - Health
+- key: Self-perceived health and health-related habits
+  topics:
+  - Health
+- key: Self-perceived health
+  topics:
+  - Health
+- key: Agricultural production methods
+  topics:
+  - Farming
+- key: Fishing and Aquaculture
+  topics:
+  - Farming
+- key: "[ISO19115] \u793E\u6703\u6587\u5316\u985E / Society"
+  topics:
+  - Society
+- key: Estimates of Provincial Revenue and Expenditure
+  topics:
+  - Economy
+- key: Economia y finanzas
+  topics:
+  - Economy
+- key: Finances publiques
+  topics:
+  - Economy
+- key: Economic sectors and enterprises
+  topics:
+  - Economy
+- key: Structure of agricultural holdings
+  topics:
+  - Farming
+- key: D. Economie - Wirtschaft
+  topics:
+  - Economy
+- key: Estimation, forecast and population structure
+  topics:
+  - Society
+- key: Poverty Statistics Among the Basic Sectors
+  topics:
+  - Economy
+- key: "Econom\xEDa y Negocios"
+  topics:
+  - Economy
+- key: Vocational education
+  topics:
+  - Society
+- key: Demography, Economy and Finance 2.0
+  topics:
+  - Economy
+- key: Investissement agricole
+  topics:
+  - Farming
+- key: "Popolazione e Societ\xE0"
+  topics:
+  - Society
+- key: Financial accounts
+  topics:
+  - Economy
+- key: Education Facilities
+  topics:
+  - Society
+- key: Begining of School Year
+  topics:
+  - Society
+- key: Infrastructure and Communications
+  topics:
+  - Utilities / Communication
+- key: Health and Nutrition
+  topics:
+  - Health
+- key: GenderStatistcs
+  topics:
+  - Society
+- key: "Financi\xEBn"
+  topics:
+  - Economy
+- key: Structure of Agricultural Holdings
+  topics:
+  - Farming
+- key: Agriculture et alimentation
+  topics:
+  - Farming
+- key: poblacion-y-sociedad
+  topics:
+  - Society
+- key: Geobasisdaten
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Gender Indicators
+  topics:
+  - Society
+- key: "P\xEAche et Aquaculture"
+  topics:
+  - Farming
+- key: Population by economic activity
+  topics:
+  - Economy
+- key: Aquaculture
+  topics:
+  - Farming
+- key: Water Planning
+  topics:
+  - Planning / Cadastre
+- key: Public Transit
+  topics:
+  - Transportation
+- key: Health and Wellbeing
+  topics:
+  - Health
+- key: Development - Reproductive health and maternal health
+  topics:
+  - Health
+- key: Utilities & Water
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Land Planning
+  topics:
+  - Planning / Cadastre
+- key: State Government Finance
+  topics:
+  - Economy
+- key: Transport and infrastructure
+  topics:
+  - Transportation
+- key: "Agricultura, pesca, silvicultura y alimentaci\xF3n"
+  topics:
+  - Farming
+- key: Index of producer prices of agricultural products
+  topics:
+  - Farming
+- key: Disposable income
+  topics:
+  - Economy
+- key: People and society
+  topics:
+  - Society
+- key: Employees by monthly gross income
+  topics:
+  - Economy
+- key: economia-finanzas
+  topics:
+  - Economy
+- key: "Agricultura y Ganader\xEDa"
+  topics:
+  - Farming
+- key: ECONOMIE
+  topics:
+  - Economy
+- key: Survey on Health, Ageing and Retirement in Europe (SHARE)
+  topics:
+  - Health
+- key: Location and age-gender distribution of population
+  topics:
+  - Society
+- key: Government and finance
+  topics:
+  - Economy
+- key: "Administra\xE7\xE3o e Finan\xE7as"
+  topics:
+  - Economy
+- key: 'Volume IV: Distribution of Population by Socio-Economic Characteristics'
+  topics:
+  - Economy
+- key: "Am\xE9nagements des terres agricoles"
+  topics:
+  - Farming
+- key: Environmental and Health Initiatives
+  topics:
+  - Health
+- key: financial
+  topics:
+  - Economy
+- key: "\xC9conomie, Business, PME, D\xE9veloppement \xE9conomique, Emploi"
+  topics:
+  - Economy
+- key: Agricultural Households by Counties
+  topics:
+  - Farming
+- key: Banca y Finanzas
+  topics:
+  - Economy
+- key: Agricultural Households by Municipalities
+  topics:
+  - Farming
+- key: Index of purchase prices of the means of agricultural production
+  topics:
+  - Farming
+- key: Facilities & Geographic Boundaries
+  topics:
+  - Boundaries
+- key: "Donn\xE9es territoriales"
+  topics:
+  - Planning / Cadastre
+- key: "DELCT - Divis\xE3o de Economia Local, Com\xE9rcio e Turismo"
+  topics:
+  - Economy
+- key: Finance/Tax/Property
+  topics:
+  - Economy
+- key: Road transport
+  topics:
+  - Transportation
+- key: 'Population and housing censuses: comparative data'
+  topics:
+  - Society
+- key: Agriculture, forestry and fisheries
+  topics:
+  - Farming
+- key: Pedagogical and educational sciences
+  topics:
+  - Society
+- key: Social Care and Health
+  topics:
+  - Health
+- key: 19. Income, deductions and taxes by net taxable earned income
+  topics:
+  - Economy
+- key: Value of Agricultural Production
+  topics:
+  - Farming
+- key: Health Outcome
+  topics:
+  - Health
+- key: Planning and building
+  topics:
+  - Planning / Cadastre
+- key: Mobility of Latvian population
+  topics:
+  - Society
+- key: Maternal & Child Health
+  topics:
+  - Health
+- key: 09. Income, deductions and taxes by parish (Persons with unlimited tax liability)
+  topics:
+  - Economy
+- key: Steuern und Finanzen
+  topics:
+  - Economy
+- key: Enterprise finances
+  topics:
+  - Economy
+- key: Government finance
+  topics:
+  - Economy
+- key: 'BEXFP94 - Population by family status 1994-2024
+
+    '
+  topics:
+  - Society
+- key: Economic development of territories
+  topics:
+  - Economy
+- key: Agricultural land
+  topics:
+  - Farming
+- key: Agricoltura
+  topics:
+  - Farming
+- key: Oceanography
+  topics:
+  - Oceans
+- key: Roads, Driving and Transport
+  topics:
+  - Transportation
+- key: Agricultural production
+  topics:
+  - Farming
+- key: Population indicators and composition
+  topics:
+  - Society
+- key: Societat i Benestar
+  topics:
+  - Society
+- key: zzz DISCONTINUED - Total statistics on income distribution
+  topics:
+  - Economy
+- key: General government finance
+  topics:
+  - Economy
+- key: Finance. Archive
+  topics:
+  - Economy
+- key: Nordic Gender Equality Indicators
+  topics:
+  - Society
+- key: Population change
+  topics:
+  - Society
+- key: Elevation and Depth
+  topics:
+  - Elevation
+- key: "Mobilit\xE9, Transports"
+  topics:
+  - Transportation
+- key: Vision & Eye Health
+  topics:
+  - Health
+- key: Government and Finance
+  topics:
+  - Economy
+- key: Transport Sector
+  topics:
+  - Transportation
+- key: Health Insurance
+  topics:
+  - Health
+- key: 'BEXST77 - Population structure 1977-2024
+
+    '
+  topics:
+  - Society
+- key: Income, Poverty and Welfare
+  topics:
+  - Economy
+- key: Transport, Movements
+  topics:
+  - Transportation
+- key: Transporte General
+  topics:
+  - Transportation
+- key: "A. Territoire et population - Gebiet und Bev\xF6lkerung"
+  topics:
+  - Society
+- key: Council governance, administration and finance
+  topics:
+  - Economy
+- key: "Budget \u2013 Finances"
+  topics:
+  - Economy
+- key: 'Prices and income
+
+    '
+  topics:
+  - Economy
+- key: Healthy and Safe Community
+  topics:
+  - Health
+- key: Budget&Finance
+  topics:
+  - Economy
+- key: Economic units
+  topics:
+  - Economy
+- key: Households disposable income (EU-SILC)
+  topics:
+  - Economy
+- key: Section 9. Federal Government Finances and Employment
+  topics:
+  - Economy
+- key: Health and Children`s Health (EU-SILC ad-hoc modules)
+  topics:
+  - Health
+- key: transporte
+  topics:
+  - Transportation
+- key: Census Profiles
+  topics:
+  - Society
+- key: Survey on Income and Living Conditions
+  topics:
+  - Economy
+- key: Physical health
+  topics:
+  - Health
+- key: Income and Living Conditions
+  topics:
+  - Economy
+- key: Economic Surveys (Financial, Insurance, Internal Trade, Industry, Transport,
+    Services, Construct)
+  topics:
+  - Economy
+- key: Government and Economy
+  topics:
+  - Economy
+- key: California Personal Income Tax
+  topics:
+  - Economy
+- key: Information technology and communications
+  topics:
+  - Utilities / Communication
+- key: City Planning
+  topics:
+  - Planning / Cadastre
+- key: National economy and prices
+  topics:
+  - Economy
+- key: 'Economy
+
+    '
+  topics:
+  - Economy
+- key: Ekonomi och finans
+  topics:
+  - Economy
+- key: "D\xE9veloppement \xE9conomique"
+  topics:
+  - Economy
+- key: Agriculture Price and Price Index
+  topics:
+  - Farming
+- key: Fishing
+  topics:
+  - Farming
+- key: Health and ability to work
+  topics:
+  - Health
+- key: 'Income '
+  topics:
+  - Economy
+- key: Family income
+  topics:
+  - Economy
+- key: "Economie \u0219i finan\u021Be"
+  topics:
+  - Economy
+- key: Full Year Poverty Statistics
+  topics:
+  - Economy
+- key: Macro Economic Indicators
+  topics:
+  - Economy
+- key: Railway transport
+  topics:
+  - Transportation
+- key: Population 11.11.11
+  topics:
+  - Society
+- key: People and Society
+  topics:
+  - Society
+- key: Global Health
+  topics:
+  - Health
+- key: Health Facilities
+  topics:
+  - Health
+- key: Health care providers' economic activity
+  topics:
+  - Health
+  - Economy
+- key: Health Vital
+  topics:
+  - Health
+- key: Economic Situation
+  topics:
+  - Economy
+- key: Goods transport by road
+  topics:
+  - Transportation
+- key: "Economie \u2013 Entreprise"
+  topics:
+  - Economy
+- key: Population and Migration
+  topics:
+  - Society
+- key: "\xD8konomi og finanser"
+  topics:
+  - Economy
+- key: Native and foreign-origin population
+  topics:
+  - Society
+- key: 1. Data on finances reported by municipalities and joint municipal authorities
+  topics:
+  - Economy
+- key: Statistics on the finances of agricultural and forestry enterprises
+  topics:
+  - Economy
+- key: Finance and employment
+  topics:
+  - Economy
+- key: Rapport financier
+  topics:
+  - Economy
+- key: Roads & Planning
+  topics:
+  - Planning / Cadastre
+- key: Economics and finance
+  topics:
+  - Economy
+- key: Living Conditions, Poverty and Cross-cutting Social Issues
+  topics:
+  - Economy
+- key: City Financial Data
+  topics:
+  - Economy
+- key: Water resources
+  topics:
+  - Inland Waters
+  - Oceans
+- key: Economic and Cultural Vitality
+  topics:
+  - Economy
+- key: Goal 01. End poverty in all its forms everywhere
+  topics:
+  - Economy
+- key: Development - Child health, nutrition and development
+  topics:
+  - Health
+- key: 1.6. Specifications of operating economy
+  topics:
+  - Economy
+- key: "[ISO19115] \u6D77\u6D0B\u8CC7\u8A0A\u985E / Oceans"
+  topics:
+  - Oceans
+- key: Poverty and inequality
+  topics:
+  - Economy
+- key: 2.6. Specifications of operating economy
+  topics:
+  - Economy
+- key: Economie - Recherche
+  topics:
+  - Economy
+- key: Business &amp; Economy
+  topics:
+  - Economy
+- key: Quarterly Population
+  topics:
+  - Society
+- key: First Semester Poverty Statistics
+  topics:
+  - Economy
+- key: Economically active population
+  topics:
+  - Economy
+- key: Economic activity and sources of subsistence
+  topics:
+  - Economy
+- key: Health care personnel
+  topics:
+  - Health
+- key: 'Fishery
+
+    '
+  topics:
+  - Farming
+- key: Self-estimated health
+  topics:
+  - Health
+- key: Stadtplanung
+  topics:
+  - Planning / Cadastre
+- key: Labour market and economy
+  topics:
+  - Economy
+- key: "Goal 3. Ensure healthy lives and promote well\xADbeing for all at all ages"
+  topics:
+  - Health
+- key: Economic
+  topics:
+  - Economy
+- key: Economie du Sport
+  topics:
+  - Economy
+- key: Health care providers' revenues and costs
+  topics:
+  - Health
+- key: Revenue & Taxation
+  topics:
+  - Economy
+- key: Meio Ambiente
+  topics:
+  - Environment
+- key: Living conditions of the population and households
+  topics:
+  - Society
+- key: Financial Services
+  topics:
+  - Economy
+- key: Agriculture and fishing
+  topics:
+  - Farming
+- key: Economics
+  topics:
+  - Economy
+- key: Administration, Finances
+  topics:
+  - Economy
+- key: Government finances
+  topics:
+  - Economy
+- key: Fishery and aquaculture
+  topics:
+  - Farming
+- key: 'Population
+
+    '
+  topics:
+  - Society
+- key: Households. Population in households
+  topics:
+  - Society
+- key: Revenue
+  topics:
+  - Economy
+- key: Population indicators and composition. Archive
+  topics:
+  - Society
+- key: Household finances
+  topics:
+  - Economy
+- key: Data for health and welfare profile
+  topics:
+  - Health
+- key: National Board of Health
+  topics:
+  - Health
+- key: Self-rated health, hygiene and mental health
+  topics:
+  - Health
+- key: Public Finance
+  topics:
+  - Economy
+- key: Geospatial Boundaries
+  topics:
+  - Boundaries
+- key: Working age population
+  topics:
+  - Society
+- key: Medical and health sciences
+  topics:
+  - Health
+- key: Population by status of education
+  topics:
+  - Society
+- key: Poverty, coping and social relationships of elderly people
+  topics:
+  - Economy
+- key: Population projections
+  topics:
+  - Society
+- key: Buildings
+  topics:
+  - Structure
+- key: Fishery
+  topics:
+  - Farming
+- key: Oral Health
+  topics:
+  - Health
+- key: 5. Human settlements and Environment Health
+  topics:
+  - Health
+- key: Communication
+  topics:
+  - Utilities / Communication
+- key: 'Goal 3: Good Health and Well-Being
+
+    '
+  topics:
+  - Health
+- key: Housing and Housing Finance
+  topics:
+  - Economy
+- key: Population figure and composition
+  topics:
+  - Society
+- key: Tourist Activity of Croatian Population
+  topics:
+  - Society
+- key: Populations
+  topics:
+  - Society
+- key: Health Interview Survey
+  topics:
+  - Health
+- key: Population projection, 2017-2061
+  topics:
+  - Society
+- key: Economically inactive population
+  topics:
+  - Economy
+- key: 1.1 Financial Statements
+  topics:
+  - Economy
+- key: Telecommunication
+  topics:
+  - Utilities / Communication
+- key: Utilities & Telecommunications
+  topics:
+  - Utilities / Communication
+- key: Business and Financial
+  topics:
+  - Economy
+- key: Population Accounts
+  topics:
+  - Society
+- key: SLIP Public People and Society Service
+  topics:
+  - Society
+- key: Estimation of Population
+  topics:
+  - Society
+- key: Economy and Workforce
+  topics:
+  - Economy
+- key: Social exclusion and poverty. Archive
+  topics:
+  - Economy
+- key: "Finan\xE7as p\xFAblicas"
+  topics:
+  - Economy
+- key: Health sciences
+  topics:
+  - Health
+- key: "Mouvement de la population - Bev\xF6lkerungsbewegung"
+  topics:
+  - Society
+- key: Economic accounts for agriculture
+  topics:
+  - Economy
+- key: Health Visitors
+  topics:
+  - Health
+- key: Size and structure of the population
+  topics:
+  - Society
+- key: Ekonomija i financije
+  topics:
+  - Economy
+- key: Population changes
+  topics:
+  - Society
+- key: Agriculture, Livestock, Fishing
+  topics:
+  - Farming
+- key: 'Work and economy
+
+    '
+  topics:
+  - Economy
+- key: 'Element 1: Economic and Social Context for Decent Work'
+  topics:
+  - Economy
+- key: Business, industry and economy
+  topics:
+  - Economy
+- key: Place of residence and age-gender distribution
+  topics:
+  - Society
+- key: Health self-assessment
+  topics:
+  - Health
+- key: Native and immigrant population
+  topics:
+  - Society
+- key: 3. Financial statement estimates reported by municipalities and joint municipal
+    authorities 2017-2020
+  topics:
+  - Economy
+- key: Utilities and Communications
+  topics:
+  - Utilities / Communication
+- key: Environmental health
+  topics:
+  - Health
+- key: "Popula\xE7\xE3o e sociedade"
+  topics:
+  - Society
+- key: Health affairs
+  topics:
+  - Health
+- key: "DACEC - Divis\xE3o de A\xE7\xE3o Clim\xE1tica e Economia Circular"
+  topics:
+  - Economy
+- key: Economic accounts of agriculture
+  topics:
+  - Economy
+- key: City Manager's Office (Finance)
+  topics:
+  - Economy
+- key: Mental Health
+  topics:
+  - Health
+- key: Budget &amp; Finance
+  topics:
+  - Economy
+- key: Education of working-age population
+  topics:
+  - Society
+- key: Occupational health
+  topics:
+  - Health
+- key: 'Public finance
+
+    '
+  topics:
+  - Economy
+- key: Maternal and child health care
+  topics:
+  - Health
+- key: covid-19
+  topics:
+  - Health
+- key: "Finan\xE7as"
+  topics:
+  - Economy
+- key: 'NEW: Family planning and reproductive health'
+  topics:
+  - Health
+- key: 'Goal 5: Gender Equality'
+  topics:
+  - Society
+- key: Health and Environment
+  topics:
+  - Health
+- key: finance
+  topics:
+  - Economy
+- key: Gender pay gap
+  topics:
+  - Society
+- key: Consumer Health
+  topics:
+  - Health
+- key: Indicators of health and activity
+  topics:
+  - Health
+- key: "Obrestne mere monetarnih finan\u010Dnih institucij\n"
+  topics:
+  - Economy
+- key: Tourism & Economy
+  topics:
+  - Economy
+- key: Population by place of birth and citizenship (1 January)
+  topics:
+  - Society
+- key: Budget/Finance
+  topics:
+  - Economy
+- key: '2019-20 Bushfire-related datasets: Compilation from the Science Economics
+    and Insights Division'
+  topics:
+  - Economy
+- key: Goal 5. Achieve gender equality and empower all women and girls
+  topics:
+  - Society
+- key: Population's Ratings of Health and Health Care
+  topics:
+  - Health
+- key: "Informations institutionnelles et financi\xE8res"
+  topics:
+  - Economy
+- key: Business Finance
+  topics:
+  - Economy
+- key: Urban Planning & Economy
+  topics:
+  - Economy
+- key: Population & Social Welfare
+  topics:
+  - Society
+- key: Financial statistics of enterprises
+  topics:
+  - Economy
+- key: Environmental Monitoring
+  topics:
+  - Environment
+- key: Tax & Finance
+  topics:
+  - Economy
+- key: Economia i treball
+  topics:
+  - Economy
+- key: Immigrant population
+  topics:
+  - Society
+- key: City Finances
+  topics:
+  - Economy
+- key: Economic characteristics
+  topics:
+  - Economy
+- key: Annual Estimates by Economic Activity - ISIC4
+  topics:
+  - Economy
+- key: Socio-economic Data
+  topics:
+  - Economy
+- key: Business and Economic Activity
+  topics:
+  - Economy
+- key: Finanziamenti
+  topics:
+  - Economy
+- key: 'Goal 3: Good Health & Well-Being'
+  topics:
+  - Health
+- key: Selection of health indicators by county, 2020
+  topics:
+  - Health
+- key: 2 Economy
+  topics:
+  - Economy
+- key: Health care institutions and professionals
+  topics:
+  - Health
+- key: Health care resources
+  topics:
+  - Health
+- key: Non-financial merchants
+  topics:
+  - Economy
+- key: 1.2. Financial statements of municipal groups
+  topics:
+  - Economy
+- key: 2.2. Financial statements of joint municipal authority groups
+  topics:
+  - Economy
+- key: National Center for Health Statistics
+  topics:
+  - Health
+- key: Risk of poverty
+  topics:
+  - Economy
+- key: Education and science statistics
+  topics:
+  - Society
+- key: 1.4. Operating economy by activity category
+  topics:
+  - Economy
+- key: 2.3. Financial statements of local government enterprises
+  topics:
+  - Economy
+- key: Economy-wide material flow accounts
+  topics:
+  - Economy
+- key: Health expenditure
+  topics:
+  - Health
+- key: Environmental economic accounts
+  topics:
+  - Economy
+- key: Growing Economic Opportunities
+  topics:
+  - Economy
+- key: 1.3. Financial statements of local government enterprises
+  topics:
+  - Economy
+- key: 1.6.1. Specifications of operating economy, municipalities
+  topics:
+  - Economy
+- key: 2.1. Financial Statements
+  topics:
+  - Economy
+- key: 'Goal 1: No poverty
+
+    '
+  topics:
+  - Economy
+- key: Finance and Budget
+  topics:
+  - Economy
+- key: Breakdowns of non-financial assets
+  topics:
+  - Economy
+- key: 2.4. Operating economy by activity category
+  topics:
+  - Economy
+- key: "Econom\xEDa y Patrimonio"
+  topics:
+  - Economy
+- key: Health issues
+  topics:
+  - Health
+- key: Lifestyle and health
+  topics:
+  - Health
+- key: Health Budget
+  topics:
+  - Health
+- key: Health Consequences and Costs
+  topics:
+  - Health
+- key: Employed population by actual place of residence
+  topics:
+  - Society
+- key: 2.6.1. Specifications of operating economy, joint municipal authorities
+  topics:
+  - Economy
+- key: 'Income distibution and risk of poverty
+
+    '
+  topics:
+  - Economy
+- key: "[ISO19115] \u7D93\u6FDF\u6D3B\u52D5\u985E / Economy"
+  topics:
+  - Economy
+- key: zzz DISCONTINUED - Local government finances
+  topics:
+  - Economy
+- key: "Population, Soci\xE9t\xE9"
+  topics:
+  - Society
+- key: Children's Health Insurance Program
+  topics:
+  - Health
+- key: Population Structure 1948-2011
+  topics:
+  - Society
+- key: Health insurance and use of healthcare
+  topics:
+  - Health
+- key: Place of residence at the time of the previous population census
+  topics:
+  - Society
+- key: Administration, Finances publiques
+  topics:
+  - Economy
+- key: Recreational fishing
+  topics:
+  - Farming
+- key: Economic Accounts for Agriculture
+  topics:
+  - Economy
+- key: Census of population 1948 - 2002
+  topics:
+  - Society
+- key: Population and education
+  topics:
+  - Society
+- key: Revenue, expenditure and debt of general government
+  topics:
+  - Economy
+- key: Health and Health Policy
+  topics:
+  - Health
+- key: Health behaviour
+  topics:
+  - Health
+- key: 'Goal 1: No Poverty'
+  topics:
+  - Economy
+- key: Health insurance
+  topics:
+  - Health
+- key: Human Health and Social Work Activities
+  topics:
+  - Health
+- key: Health care personnel's wages
+  topics:
+  - Health
+- key: Agriculture, Forestry, and Fishing
+  topics:
+  - Farming
+- key: 'Goal 8: Decent work and economic growth
+
+    '
+  topics:
+  - Economy
+- key: Financial accounts of fisheries
+  topics:
+  - Economy
+- key: Bodennutzung
+  topics:
+  - Planning / Cadastre
+- key: Indicators of public health
+  topics:
+  - Health
+- key: Pacific Branch of the Russian Federal Research Institute of Fisheries and Oceanography
+    (TINRO)
+  topics:
+  - Oceans
+- key: "Am\xE9nagement du territoire, Habitat, Population"
+  topics:
+  - Society
+- key: Finance and Insurance
+  topics:
+  - Economy
+- key: Financial and Insurance Activities
+  topics:
+  - Economy
+- key: Statistics on Estonian National Health Information System
+  topics:
+  - Health
+- key: eje-economico
+  topics:
+  - Economy
+- key: 'Goal 5: Gender equality
+
+    '
+  topics:
+  - Society
+- key: Economically disadvantaged
+  topics:
+  - Economy
+- key: Distribution of the population. Temporary presence and absence
+  topics:
+  - Society
+- key: Bioeconomy
+  topics:
+  - Economy
+- key: Population estimates based on the Census 2021
+  topics:
+  - Society
+- key: FFA Maritime Boundaries Project
+  topics:
+  - Boundaries
+- key: Goal 8. Promote sustained, inclusive and sustainable economic growth, full
+    and productive employment and decent work for all
+  topics:
+  - Economy
+- key: Census & Economic
+  topics:
+  - Economy
+- key: ICT sector in economy
+  topics:
+  - Economy
+- key: Reproductive Health
+  topics:
+  - Health
+- key: Population in gainful employment
+  topics:
+  - Society
+- key: Macroeconomic Statistics
+  topics:
+  - Economy
+- key: 2 Economy and Social Aspects
+  topics:
+  - Economy
+- key: Financial Indicators for Research and Development
+  topics:
+  - Economy
+- key: "Financie, rozpo\u010Det, dot\xE1cie"
+  topics:
+  - Economy
+- key: Economic Developement
+  topics:
+  - Economy
+- key: Health accounts
+  topics:
+  - Health
+- key: Census of population 2002 by municipality
+  topics:
+  - Society
+- key: Economy and business
+  topics:
+  - Economy
+- key: Economy and health
+  topics:
+  - Health
+  - Economy
+- key: "Obveznosti drugih monetarnih finan\u010Dnih institucij po sektorjih\n"
+  topics:
+  - Economy
+- key: 'CHA: Health & Wellness'
+  topics:
+  - Health
+- key: Organization of health services
+  topics:
+  - Health
+- key: Health care providers
+  topics:
+  - Health
+- key: Health resources
+  topics:
+  - Health
+- key: "Finan\xE7as e Or\xE7amento"
+  topics:
+  - Economy
+- key: Population stock
+  topics:
+  - Society
+- key: E-road census
+  topics:
+  - Society
+- key: demographics
+  topics:
+  - Society
+- key: "Terjatve drugih monetarnih finan\u010Dnih institucij po sektorjih\n"
+  topics:
+  - Economy
+- key: Health insurers
+  topics:
+  - Health
+- key: Population in households
+  topics:
+  - Society
+- key: Non-Financial Accounts
+  topics:
+  - Economy
+- key: Employment and health
+  topics:
+  - Health
+- key: 'Volume II: Distribution of Population by Administrative Units'
+  topics:
+  - Society
+- key: 'Health Dimension
+
+    '
+  topics:
+  - Health
+- key: School Finance
+  topics:
+  - Economy
+- key: Hunting and fishery
+  topics:
+  - Farming
+- key: Population estimates based on the Census 2002 (archived data)
+  topics:
+  - Society
+- key: Population estimated
+  topics:
+  - Society
+- key: 3.1. Financial statement estimates, municipalities
+  topics:
+  - Economy
+- key: Sexual behavior and reproductive health
+  topics:
+  - Health
+- key: Pacific Branch of the Russian Federal Research Institute of Fisheries and Oceanography
+  topics:
+  - Oceans
+- key: Health and Home
+  topics:
+  - Health
+- key: "Structure de la population - Bev\xF6lkerungsstand"
+  topics:
+  - Society
+- key: Community health and safety
+  topics:
+  - Health
+- key: Healthcare institutions
+  topics:
+  - Health
+- key: VA Healthcare Utilization
+  topics:
+  - Health
+- key: Population by main type of activity monthly
+  topics:
+  - Society
+- key: zzz DISCONTINUED - Financial statement statistics on credit institutions
+  topics:
+  - Economy
+- key: Geographic Locations and Boundaries
+  topics:
+  - Boundaries
+- key: Gender and Social Inclusion
+  topics:
+  - Society
+- key: Health well-being and care
+  topics:
+  - Health
+- key: Healthy life years
+  topics:
+  - Health
+- key: 3.2. Financial statement estimates, joint municipal authorities
+  topics:
+  - Economy
+- key: Finance of housing companies
+  topics:
+  - Economy
+- key: 'Volume I: Population by County and Sub-County'
+  topics:
+  - Society
+- key: Mental Health Community Teams Activity
+  topics:
+  - Health
+- key: Public Administration & Finance
+  topics:
+  - Economy
+- key: Vegetation
+  topics:
+  - Farming
+- key: Bauleitplanung
+  topics:
+  - Planning / Cadastre
+- key: Population by main type of activity
+  topics:
+  - Society
+- key: Population size
+  topics:
+  - Society
+- key: "Informa\xE7\xF5es financeiras"
+  topics:
+  - Economy
+- key: Financije
+  topics:
+  - Economy
+- key: Population with long-term illness or disability
+  topics:
+  - Society
+- key: Population et Habitat
+  topics:
+  - Society
+- key: Place of residence at the time of the 1989 Population Census
+  topics:
+  - Society
+- key: Environmental sciences
+  topics:
+  - Geoscientific Information
+- key: Child Health
+  topics:
+  - Health
+- key: Neighborhood Census Data
+  topics:
+  - Society
+- key: Environmental Sciences
+  topics:
+  - Geoscientific Information
+- key: Health Data
+  topics:
+  - Health
+- key: Health Care Resources
+  topics:
+  - Health
+- key: Personal finances
+  topics:
+  - Economy
+- key: Diseases and other health problems
+  topics:
+  - Health
+- key: 'Population of Ferizaj municipality by settlement  '
+  topics:
+  - Society
+- key: 'Population of Gllogoc municipality by settlement  '
+  topics:
+  - Society
+- key: "Population of Podujev\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: 'Population of Rahovec municipality by settlement  '
+  topics:
+  - Society
+- key: Budget and Finances
+  topics:
+  - Economy
+- key: 'Occupational Safety and Health Practices
+
+    '
+  topics:
+  - Health
+- key: Health care expenditure
+  topics:
+  - Health
+- key: Historical population
+  topics:
+  - Society
+- key: "Gender-Based Violence and Access to Justice\t"
+  topics:
+  - Society
+- key: 'Population of Dragash municipality by settlement  '
+  topics:
+  - Society
+- key: 'Population of Shtime municipality by settlement  '
+  topics:
+  - Society
+- key: 'Population of Zubin Potok municipality by settlement  '
+  topics:
+  - Society
+- key: "Population of Zve\xE7an municipality by settlement  "
+  topics:
+  - Society
+- key: "Population of Novob\xEBrd\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: 'Population of Obiliq municipality by settlement  '
+  topics:
+  - Society
+- key: "Population of Pej\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: "Population of Prishtin\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: 'Population of Vushtrri municipality by settlement  '
+  topics:
+  - Society
+- key: Population Census 2011
+  topics:
+  - Society
+- key: "Cr\xE9dito, financiamento e servi\xE7os banc\xE1rios"
+  topics:
+  - Economy
+- key: Health Providers & Services
+  topics:
+  - Health
+- key: "Bilanca drugih monetarnih finan\u010Dnih institucij\n"
+  topics:
+  - Economy
+- key: 'Population of Han i Elezit municipality by settlement  '
+  topics:
+  - Society
+- key: 'Population of Istog municipality by settlement  '
+  topics:
+  - Society
+- key: Gender & Diversity
+  topics:
+  - Society
+- key: General health
+  topics:
+  - Health
+- key: 'Population of Gjilan municipality by settlement  '
+  topics:
+  - Society
+- key: "Population of Kamenic\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: "Population of Klin\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: 'Population of Kllokot municipality by settlement  '
+  topics:
+  - Society
+- key: 'Population of Leposaviq municipality by settlement  '
+  topics:
+  - Society
+- key: "Population of Malishev\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: "Population of Mitrovic\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: Ocean
+  topics:
+  - Oceans
+- key: Population and Families
+  topics:
+  - Society
+- key: Educational structure of population
+  topics:
+  - Society
+- key: Finance and Assets
+  topics:
+  - Economy
+- key: 'Population of Junik municipality by settlement  '
+  topics:
+  - Society
+- key: 'Population of Lipjan municipality by settlement  '
+  topics:
+  - Society
+- key: "Population of Mamush\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: "Population of Sht\xEBrpc\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: "Population of Sk\xEBnderaj municipality by settlement  "
+  topics:
+  - Society
+- key: "Population of Suharek\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: Preliminary population statistics
+  topics:
+  - Society
+- key: zzz DISCONTINUED - Financial activities
+  topics:
+  - Economy
+- key: 7 Health
+  topics:
+  - Health
+- key: Agriculture Census 2017
+  topics:
+  - Society
+- key: Vital Statistic and Health
+  topics:
+  - Health
+- key: Dental health
+  topics:
+  - Health
+- key: "Population of Fush\xEB Kosov\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: 'Population of Gjakova municipality by settlement  '
+  topics:
+  - Society
+- key: "Population of Gra\xE7anic\xEB municipality by settlement  "
+  topics:
+  - Society
+- key: "Population of Ka\xE7anik municipality by settlement  "
+  topics:
+  - Society
+- key: 'Population of Prizren municipality by settlement  '
+  topics:
+  - Society
+- key: 'Population of Ranillug municipality by settlement  '
+  topics:
+  - Society
+- key: Population projection, 2011-2061
+  topics:
+  - Society
+- key: Rural Health Care
+  topics:
+  - Health
+- key: Rodent population dynamics
+  topics:
+  - Society
+- key: Section 1. Population
+  topics:
+  - Society
+- key: "Finan\u010Dni ra\u010Duni\n"
+  topics:
+  - Economy
+- key: "Population of De\xE7an municipality by settlement  "
+  topics:
+  - Society
+- key: 'Population of Viti municipality by settlement  '
+  topics:
+  - Society
+- key: Budget & Finance
+  topics:
+  - Economy
+- key: 'Population of Partesh municipality by settlement  '
+  topics:
+  - Society
+- key: Quarterly non-financial accounts
+  topics:
+  - Economy
+- key: "Coordenadoria de Or\xE7amento e Finan\xE7as (COFI)"
+  topics:
+  - Economy
+- key: Financial Management
+  topics:
+  - Economy
+- key: "Popula\u021Bie"
+  topics:
+  - Society
+- key: 02 Financial support for children
+  topics:
+  - Economy
+- key: Bebauungsplan
+  topics:
+  - Planning / Cadastre
+- key: 04 Financial support for older people
+  topics:
+  - Economy
+- key: finance and banking
+  topics:
+  - Economy
+- key: Population estimates
+  topics:
+  - Society
+- key: Gender equality
+  topics:
+  - Society
+- key: "Konsolidirana bilanca monetarnih finan\u010Dnih institucij\n"
+  topics:
+  - Economy
+- key: Population scenarios
+  topics:
+  - Society
+- key: "Enterprises\u2019 value added, productivity etc. financial key ratios"
+  topics:
+  - Economy
+- key: City Finance and Budget
+  topics:
+  - Economy
+- key: Financial and insurance activities
+  topics:
+  - Economy
+- key: Federal Government Finances and Employment
+  topics:
+  - Economy
+- key: 'Finance of municipalities
+
+    '
+  topics:
+  - Economy
+- key: "Population, Citoyennet\xE9"
+  topics:
+  - Society
+- key: Development of original animal populations
+  topics:
+  - Society
+- key: 3 Gender
+  topics:
+  - Society
+- key: Population, change of method 2024
+  topics:
+  - Society
+- key: "01 - Popula\xE7\xE3o"
+  topics:
+  - Society
+- key: "Finanzas p\xFAblicas"
+  topics:
+  - Economy
+- key: "Or\xE7amento e Finan\xE7as"
+  topics:
+  - Economy
+- key: 'Population estimates 2003-2020, revised data based on the Census 2021 '
+  topics:
+  - Society
+- key: Gender Pay Gap
+  topics:
+  - Society
+- key: "Vie\u0161ojo sektoriaus subjekt\u0173 finansiniai rodikliai"
+  topics:
+  - Economy
+- key: Educational finances
+  topics:
+  - Economy
+- key: "Opera\xE7\xF5es de financiamentos"
+  topics:
+  - Economy
+- key: 'Population of North Mitrovica municipality by settlement  '
+  topics:
+  - Society
+- key: "Popula\xE7\xE3o e condi\xE7\xF5es de vida"
+  topics:
+  - Society
+- key: "Popula\u021Bie \u0219i condi\u021Bii sociale"
+  topics:
+  - Society
+- key: 'Volume III: Distribution of Population by Age, Sex and Administrative Units'
+  topics:
+  - Society
+- key: Family & Health
+  topics:
+  - Health
+- key: Credit and financing terms in the business sector
+  topics:
+  - Economy
+- key: Administration, Demographics, Financial, Government
+  topics:
+  - Economy
+- key: Finances et droit
+  topics:
+  - Economy
+- key: "Demonstra\xE7\xF5es Financeiras"
+  topics:
+  - Economy
+- key: Finance and insurance
+  topics:
+  - Economy
+- key: Finanzhaushalt
+  topics:
+  - Economy
+- key: Census of Retail Trade Capacities
+  topics:
+  - Society
+- key: E-rail census
+  topics:
+  - Society
+- key: Ministry of Finance and Public Service
+  topics:
+  - Economy
+- key: MINISTERIO DE FINANZAS
+  topics:
+  - Economy
+- key: Non-financial accounts
+  topics:
+  - Economy
+- key: Population estimates on 31 December based on the Census 2021
+  topics:
+  - Society
+- key: Economy and Finance
+  topics:
+  - Economy
+- key: Census of Establishments 2018
+  topics:
+  - Society
+- key: Monetary Policy and Financial Sector Indicators
+  topics:
+  - Economy
+- key: Elevation Model
+  topics:
+  - Elevation
+- key: Inactive population
+  topics:
+  - Society
+- key: Finanse
+  topics:
+  - Economy
+- key: 'Population estimates on 30 June based on the Census 2021 '
+  topics:
+  - Society
+- key: "Financiadores de Projetos dos Programas de P\xF3s-Gradua\xE7\xE3o Stricto
+    Sensu no Brasil"
+  topics:
+  - Economy
+- key: Population and Society
+  topics:
+  - Society
+- key: "Projections de la population - Bev\xF6lkerungsprojektion"
+  topics:
+  - Society
+- key: "MINISTERIO DE OBRAS P\xDABLICAS Y FINANCIAMIENTO"
+  topics:
+  - Economy
+- key: "[ISO19115] \u9AD8\u7A0B\u8CC7\u8A0A\u985E / Elevation"
+  topics:
+  - Elevation
+- key: "2. Data on finances by the Government of \xC5land"
+  topics:
+  - Economy
+- key: Financieel Beheer
+  topics:
+  - Economy
+- key: Financing
+  topics:
+  - Economy
+- key: Financial Data and Reports
+  topics:
+  - Economy
+- key: Census 2003
+  topics:
+  - Society
+- key: "[ISO19115] \u571F\u5730\u908A\u754C\u985E / Boundaries"
+  topics:
+  - Boundaries
+- key: "[ISO19115] \u5730\u8868\u8986\u84CB\u8CC7\u8A0A\u985E / Imagery Base Maps
+    Earth Cover"
+  topics:
+  - Imagery / Base Maps / Earth Cover
+- key: Survey on the travels of the domestic population
+  topics:
+  - Society
+- key: Census 2024
+  topics:
+  - Society
+- key: Financial statistics of foreign affiliates
+  topics:
+  - Economy
+- key: Population, sample and number of respondents. Quality indicators
+  topics:
+  - Society
+- key: Financial account
+  topics:
+  - Economy
+- key: 6.5 By 2030, implement integrated water resources management at all levels,
+    including through transboundary cooperation as appropriate
+  topics:
+  - Boundaries
+- key: Population estimations
+  topics:
+  - Society
+- key: Population Projection
+  topics:
+  - Society
+- key: "AGENCIA C\xD3RDOBA DE INVERSI\xD3N Y FINANCIAMIENTO SEM"
+  topics:
+  - Economy
+- key: "{\"de\": \"Bev\xF6lkerung\", \"en\": \"Population\", \"fr\": \"Population\",
+    \"it\": \"Popolazione\"}"
+  topics:
+  - Society
+- key: zzz DISCONTINUED - Financial leasing
+  topics:
+  - Economy
+- key: Financial statements
+  topics:
+  - Economy
+- key: '5.1.1 Population and Tourism '
+  topics:
+  - Society
+- key: Financial statistics of sole proprietors
+  topics:
+  - Economy
+- key: Population forecast
+  topics:
+  - Society
+- key: Development of butterfly populations in agricultural environments
+  topics:
+  - Society
+- key: zzz DISCONTINUED - General government financial accounts
+  topics:
+  - Economy
+- key: "Finan\xE7a e Or\xE7amento"
+  topics:
+  - Economy
+- key: Censuses of population 1948-2002 by settlements
+  topics:
+  - Society
+- key: zzz DISCONTINUED - Quarterly local government finances
+  topics:
+  - Economy
+- key: 9.3 Increase the access of small-scale industrial and other enterprises, in
+    particular in developing countries, to financial services, including affordable
+    credit, and their integration into value chains and markets
+  topics:
+  - Economy
+- key: "Dados relacionados \xE0 execu\xE7\xE3o or\xE7ament\xE1ria e financeira"
+  topics:
+  - Economy
+- key: Sistema Financeiro Nacional
+  topics:
+  - Economy
+- key: Indicators by gender - Population
+  topics:
+  - Society
+- key: 5.6 Ensure universal access to sexual and reproductive health and reproductive
+    rights as agreed in accordance with the Programme of Action of the International
+    Conference on Population and Development and the Beijing Platform for Action and
+    the outcome documents of their review conferences
+  topics:
+  - Society
+- key: 9.a Facilitate sustainable and resilient infrastructure development in developing
+    countries through enhanced financial, technological and technical support to African
+    countries, least developed countries, landlocked developing countries and small
+    island developing States
+  topics:
+  - Economy
+- key: Pacific Regional Maritime Boundaries
+  topics:
+  - Boundaries
+- key: Population projectons 2022 - 2070
+  topics:
+  - Society
+- key: "17.4 Assist developing countries in attaining long-term debt sustainability
+    through coordinated policies aimed at fostering debt financing,\n debt relief
+    and debt restructuring, as appropriate, and address the external debt of highly
+    indebted poor countries to reduce debt distress"
+  topics:
+  - Economy
+- key: Population Projections
+  topics:
+  - Society
+- key: Non-financial account
+  topics:
+  - Economy
+- key: Territoires
+  topics:
+  - Planning / Cadastre
+- key: "\u0E41\u0E19\u0E27\u0E40\u0E02\u0E15\u0E01\u0E32\u0E23\u0E1B\u0E01\u0E04\u0E23\u0E2D\u0E07
+    (Administrative Boundaries)"
+  topics:
+  - Boundaries
+- key: Enterprises' investments in fixed assets, financial leasing
+  topics:
+  - Economy
+- key: "Execu\xE7\xE3o Financeira"
+  topics:
+  - Economy
+- key: Structural Business Statistics of Finance Institutions
+  topics:
+  - Economy
+- key: 5.a Undertake reforms to give women equal rights to economic resources, as
+    well as access to ownership and control over land and other forms of property,
+    financial services, inheritance and natural resources, in accordance with national
+    laws
+  topics:
+  - Economy
+- key: Finance Manual 2017
+  topics:
+  - Economy
+- key: Financial support
+  topics:
+  - Economy
+- key: "Itens financi\xE1veis"
+  topics:
+  - Economy
+- key: Maritime Boundaries
+  topics:
+  - Boundaries
+- key: Financial institutions accounts
+  topics:
+  - Economy
+- key: 17.3 Mobilize additional financial resources for developing countries from
+    multiple sources
+  topics:
+  - Economy
+- key: 1.2 Financial statements of municipal groups
+  topics:
+  - Economy
+- key: "Institui\xE7\xF5es financeiras credenciadas"
+  topics:
+  - Economy
+- key: 17.13 Mobilize additional financial resources for developing countries from
+    multiple sources
+  topics:
+  - Economy
+- key: International Finance
+  topics:
+  - Economy
+- key: Financial Markets and Institutions
+  topics:
+  - Economy
+- key: Maps, Locations and Boundaries
+  topics:
+  - Boundaries

@@ -12,6 +12,7 @@ import typer
 
 app = typer.Typer()
 
+NEW_MAPPER_FILE = '../refined/prepared_20240810.csv'
 MAPPER_FILE = '../refined/prepared.csv'
 DATA_THEMES_FILE = '../reference/data_themes.yaml'
 ISO19115_FILE = '../reference/iso19115.yaml'
@@ -20,8 +21,8 @@ RULES_GEO_FILE = '../reference/rules_geo.yaml'
 
 
 @app.command()
-def convert():
-    """Convert mapped data to yaml rules"""
+def convert_old():
+    """Convert mapped data to yaml rules (old)"""
     themes = {}
     f = open(DATA_THEMES_FILE, 'r', encoding='utf8')
     themes_data = yaml.load(f, Loader=Loader)
@@ -58,9 +59,51 @@ def convert():
     f.write(yaml.dump(data_geo, Dumper=Dumper))
     f.close()
 
+
+
+@app.command()
+def convert():
+    """Convert mapped data to yaml rules"""
+    themes = {}
+    f = open(DATA_THEMES_FILE, 'r', encoding='utf8')
+    themes_data = yaml.load(f, Loader=Loader)
+    f.close()
+    for row in themes_data:
+        print(row)
+        themes[row['name']] = row['name']
+
+    data_geo = []
+    data_theme = []
+    texts = []
+    f = open(NEW_MAPPER_FILE, 'r', encoding='utf-8-sig')
+    reader = csv.DictReader(f, delimiter=';') 
+    for row in reader:
+        print(row)
+        text = row['topic']
+        if len(row['data_rules']) > 0:
+            parts = row['data_rules'].split('|')
+            record = {'key': text, 'topics' : []}
+            for part in parts:      
+                record['topics'].append(themes[part])
+            data_theme.append(record)
+        if len(row['geo_rules']) > 0:
+            parts = row['geo_rules'].split('|')
+            record = {'key': text, 'topics' : []}
+            for part in parts:
+                record['topics'].append(part)
+            data_geo.append(record)
+    f.close()
+    f = open(RULES_THEME_FILE, 'w', encoding='utf8')
+    f.write(yaml.dump(data_theme, Dumper=Dumper))
+    f.close()
+    f = open(RULES_GEO_FILE, 'w', encoding='utf8')
+    f.write(yaml.dump(data_geo, Dumper=Dumper))
+    f.close()
+
+
 @app.command()
 def identify(text):
-    """Identifies license by text provided. Very slow and ineffective. Temporary solution test license mapping for Common Data Index"""
+    """Identifies theme by text provided. Very slow and ineffective. Temporary solution test theme mapping for Common Data Index"""
     themes= {}
     f = open(RULES_THEME_FILE, 'r', encoding='utf8')
     themes_data = yaml.load(f, Loader=Loader)
